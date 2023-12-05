@@ -1,0 +1,147 @@
+---
+title: "Pseudocoding and for loop"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    number_sections: true
+    collapsed: false
+    css: style.css
+---
+
+---- 
+
+Author: Jia Liu    
+
+Date: 12/01/2023
+
+----
+
+<br>
+
+# Preparation
+
+<br>
+
+## What is variable?
+
+Variable is common in any languages. Creating a variable is to assign a value of any data types (number, character, or string) to a name. Later when you call the variable name, it will return the value saved into it. 
+
+In Shell, the value is assigned to the variable name through `=`. And the variable name will always be on the left of the `=`, while the value being assigned will be on the right. For example, we can create a variable `germs_pi`, and assign the value "adina" to it through:
+
+```
+germs_pi="adina"
+```
+
+While call a variable in Shell, we need to add a `$` in front of the variable name. Now let's call the variable:
+
+```
+echo $germs_pi
+```
+
+Let's assign the highest temperature (in F) you've experienced into the variable name `high_tempe`:
+
+```
+high_tempe=100
+```
+
+Then display the value of this variable:
+
+```
+echo $high_tempe
+```
+
+Wait, that is not the highest temperature. Let's modify the `high_tempe`:
+
+```
+high_tempe=105
+```
+
+Now if we display the value of `high_tempe` we can see the value of this variable is updated:
+
+```
+echo $high_tempe
+```
+
+
+Variable is very useful in programming since it allows variations or changes of the variable value, while the variable name is always the same. For example, if I want to write a program to convert any user input highest temperature they experienced from Fahrenheit to Celsius, then within my code, I will assign the user defined temperature to variable name `high_tempe`, and then perform the same calculation converting from Fahrenheit to Celsius on the `high_tempe`.
+
+
+<br>
+
+# Pseudocode
+
+Pseudocode means "fake code". It is a step-by-step description of what you plan to do in your code/algorithm, in a form that can be easily understand by human, but not the computer! When you are new to programming and don't know where to start with your code, pseudocoding can be a great way to help you organize the steps and get started. The big scripts with hundreds of lines often also come from pseudocode. In this section, we will learn how to pseudocode through a game *Learn more about your labmates*!
+
+<br>
+
+
+## Learn more about your labmates
+
+
+Let's "suppose" I like my labmates and want to learn more about them. There are so many aspects about a person that make them unique, and I am most specifically interested in 3 questions:
+
+- What is your full name?
+
+- Do you like pancake or waffle?
+
+- Are you a dog or cat person?
+
+
+
+The above can be regarded as some simple pseudocode, where you list out your plan (for coding) step-by-step very clearly.
+
+Let's ask one person for these questions in this room. We can ask another person. What if I want to ask these questions to every person in this room?
+
+<br>
+
+# For loop
+
+When you want to repeat the same procedure / steps more than two or three times, you should probably perform it iteratively or through parallel, instead of doing it one by one. 
+
+So if I want to ask the above questions to all the person in this room, I would use a for loop. And the pseudocode for this for loop will look like this:
+
+
+```
+for person in all the person that are currently in this room;
+do
+  What is the full name of $person;
+  Does $person prefer pancake or waffle;
+  Is $person a dog or cat person;
+done
+```
+
+
+For loop will iterate through each subject within the range you defined, and perform the steps you listed in the loop. Within each iteration, the corresponding subject will be referred as the variable name you defined, so "person" in this case. 
+
+<br>
+
+## Loop through the DNA files in `~/shell_101_materials` directory
+
+We can see that all the metagenomic DNA files in this folder end with ".fa". We can refer to the group of files with partial of same patterns by using `*` to represent the unique part of the files, and type out the same patterns. In this case, we can use `*.fa` to represent all the DNA files in this folder. For example, let's list all the files that end with `.fa` through:
+
+```
+ls *.fa
+```
+
+
+What if we want to loop through each DNA file, and display the file name:
+
+```
+for f in *.fa; 
+do 
+  echo $f; 
+done
+```
+
+
+What if we want to loop through each DNA file, display the file name and then count the number of genes within each file? In the last exercise, we counted the number of genes for one file using `grep '^>' mgm4508939.3_299.1.fa | wc -l`. In the for loop, each file is assigned to the variable name `f`, so the file name `mgm4508939.3_299.1.fa` should be somehow changed to refer the `f`. How should we do this?
+
+```
+for f in *.fa; 
+do 
+  echo $f;
+  grep '^>' $f | wc -l; 
+done
+```

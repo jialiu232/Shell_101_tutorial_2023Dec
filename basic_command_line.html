@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Basic command line programming</title>
+
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Shell</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="basic_command_line.html">Basic command line programming</a>
+</li>
+<li>
+  <a href="pseudocoding_forloops.html">Pseudocoding and For loop</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Basic command line programming</h1>
+
+</div>
+
+
+<hr />
+<p>Author: Jia Liu</p>
+<p>Date: 11/30/2023</p>
+<hr />
+<p><br></p>
+<div id="navigating-on-the-cluster" class="section level1" number="1">
+<h1><span class="header-section-number">1</span>
+<font color="red">Navigating on the cluster</font></h1>
+<p><br></p>
+<div id="print-working-directory-pwd" class="section level2"
+number="1.1">
+<h2><span class="header-section-number">1.1</span> Print Working
+Directory (<code>pwd</code>)</h2>
+<p><br></p>
+<p>Now you have logged into the Nova cluster. But where are you? You can
+print the current working directory you are at through the command
+below:</p>
+<pre><code>pwd</code></pre>
+<p>The response to this command is <code>/home/YOUR_ISU_NETID</code>,
+and this is your home directory, where you can work on or develop your
+projects at.</p>
+<p><br></p>
+</div>
+<div
+id="list-the-files-and-directories-in-the-current-working-directory-ls"
+class="section level2" number="1.2">
+<h2><span class="header-section-number">1.2</span> List the files and
+directories in the current working directory (<code>ls</code>)</h2>
+<p>You know which directory you are at now. What are the contents of the
+current directory? You can list the files and directories in a directory
+by <code>ls DIRECTORY_PATH</code>. If no directory path is passed to
+<code>ls</code>, it will by default list all the contents within the
+current working directory. <code>.</code> represents the current working
+directory, if <code>.</code> is passed to <code>ls</code>, all the
+contents in the current working directory will be listed as well:</p>
+<pre><code>ls</code></pre>
+<p>or:</p>
+<pre><code>ls .</code></pre>
+<p>If this is the first time you logged in, the <code>ls</code> command
+may not return any results in your home directory, since you have not
+created any contents yet.</p>
+<p>The path of our lab directory is <code>/work/adina</code>, we can
+list all the content within the lab directory by:</p>
+<pre><code>ls /work/adina</code></pre>
+<p><br></p>
+</div>
+<div id="change-to-another-directory-cd" class="section level2"
+number="1.3">
+<h2><span class="header-section-number">1.3</span> Change to another
+directory (<code>cd</code>)</h2>
+<p>There are many different directories on the HPC. You can change to
+another directory by <code>cd &lt;DIRECTORY_PATH&gt;</code>. Let’s go to
+our lab directory:</p>
+<pre><code>cd /work/adina</code></pre>
+<p>Now if you type <code>ls</code> to list all the contents in our lab
+directory, you can see some folders and files.</p>
+<p>There are some shorthand ways to navigate across the file systems
+through <code>cd</code>. For example, we can move up one directory with
+<code>..</code>:</p>
+<pre><code>cd ..</code></pre>
+<p>Now we are in the <code>/work</code> directory. If you list the
+contents in this directory, you can see folders belong to many other
+labs, and <code>adina</code> is one of them.</p>
+<p>we can go back to our home directory by using <code>~</code>:</p>
+<pre><code>cd ~</code></pre>
+<p>If you type <code>pwd</code> now, you can see you are back at your
+home directory (<code>/home/ISU_netID</code>).</p>
+<p><br></p>
+</div>
+</div>
+<div id="working-with-files" class="section level1" number="2">
+<h1><span class="header-section-number">2</span>
+<font color="orange">Working with files</font></h1>
+<p><br></p>
+<div id="creating-a-new-directory" class="section level2" number="2.1">
+<h2><span class="header-section-number">2.1</span> Creating a new
+directory</h2>
+<p>We can create a new directory using the
+<code>mkdir NEW_DIRECTORY</code>. For example, we can create a directory
+called <code>test_dir</code> by:</p>
+<pre><code>mkdir test_dir</code></pre>
+<p>Let’s create a directory called
+<code>practice_working_with_files</code> through:</p>
+<pre><code>mkdir practice_working_with_files</code></pre>
+<p>Let’s go to the new created directory through:</p>
+<pre><code>cd practice_working_with_files</code></pre>
+<p>Let’s check what directory we are currently in using
+<code>pwd</code>.</p>
+<p><br></p>
+</div>
+<div id="writing-to-displaying-and-counting-files"
+class="section level2" number="2.2">
+<h2><span class="header-section-number">2.2</span> Writing to,
+displaying, and counting files</h2>
+<ul>
+<li>Writing to a file through <code>echo</code> and
+<code>&gt;</code></li>
+</ul>
+<p><code>echo</code> is a command that echoes back or prints whatever we
+supply to it. For example:</p>
+<pre><code>echo &quot;Hello world&quot;</code></pre>
+<p>Output:</p>
+<pre><code>Hello world</code></pre>
+<p>Another example:</p>
+<pre><code>echo &quot;happy Friday!&quot;</code></pre>
+<p>Output:</p>
+<pre><code>happy Friday!</code></pre>
+<p>The <code>&gt;</code> character takes the output on the left hand
+side command and saves it to the file on the right hand side. So, if we
+wanted to save the phrase “First sentence” to <code>file_1.txt</code>,
+we would type:</p>
+<pre><code>echo &quot;First sentence&quot; &gt; file_1.txt</code></pre>
+<p>Now if you list the contents in the current folder using
+<code>ls</code>, you should see the <code>file_1.txt</code> we just
+created.</p>
+<ul>
+<li>Displaying or printing out the contents of a file</li>
+</ul>
+<p>We can display everything in a file using <code>cat FILE_NAME</code>.
+Let’s print out the contents of the <code>file_1.txt</code> we just
+created:</p>
+<pre><code>cat file_1.txt</code></pre>
+<p>Output:</p>
+<pre><code>First sentence</code></pre>
+<ul>
+<li>Append text to an existing file</li>
+</ul>
+<p>Note: While using <code>echo "TEXT" &gt; FILE_NAME</code> to write
+text into a file, if the file you put on the right hand side already
+exists, it will overwrite its contents with whatever you’re putting
+there.</p>
+<p>For example, if we write “New line” to the <code>file_1.txt</code>
+that we just created:</p>
+<pre><code>echo &quot;New line&quot; &gt; file_1.txt</code></pre>
+<p>And print out the contents in this file:</p>
+<pre><code>cat file_1.txt</code></pre>
+<p>Output:</p>
+<pre><code>New line</code></pre>
+<p>The <code>file_1.txt</code> is overwritten with the “New line”. What
+if we want to append more texts to an existing file without removing the
+previous contents? We can use <code>echo "TEXT"</code> with
+<code>&gt;&gt;</code>. For example, append “The second line” to
+<code>file_1.txt</code>:</p>
+<pre><code>echo &quot;The second line&quot; &gt;&gt; file_1.txt</code></pre>
+<p>Now let’s display all the contents in <code>file_1.txt</code>:</p>
+<pre><code>cat file_1.txt</code></pre>
+<p>Output:</p>
+<pre><code>New line
+The second line</code></pre>
+<p>Let’s add another line:</p>
+<pre><code>echo &quot;The third line&quot; &gt;&gt; file_1.txt</code></pre>
+<p>Now let’s display all the contents in <code>file_1.txt</code>:</p>
+<pre><code>cat file_1.txt</code></pre>
+<p>Output:</p>
+<pre><code>New line
+The second line
+The third line</code></pre>
+<ul>
+<li>Counting a file</li>
+</ul>
+<p>We can count a file using <code>wc</code>. For example:</p>
+<pre><code>wc file_1.txt</code></pre>
+<p>The first value is the number of lines in the file, the second is the
+number of words, and the third is the size of the file in memory.</p>
+<p>If you only want to know the number of lines in a file, you can use
+<code>wc -l FILE_NAME</code>:</p>
+<pre><code>wc -l file_1.txt</code></pre>
+<p><br></p>
+</div>
+<div id="copying-file-and-directory" class="section level2"
+number="2.3">
+<h2><span class="header-section-number">2.3</span> Copying file and
+directory</h2>
+<p><br></p>
+<div id="copying-file" class="section level3" number="2.3.1">
+<h3><span class="header-section-number">2.3.1</span> Copying file</h3>
+<p>We can copy a file using <code>cp</code>. We first pass the name of
+the file we want to copy, followed by the location of where we want to
+copy it to. For instance, to copy the <code>file_1.txt</code> file to
+our home directory, we can type:</p>
+<pre><code>cp file_1.txt ~</code></pre>
+<p>Now let’s list all the contents in the home directory:</p>
+<pre><code>ls ~</code></pre>
+<p>We can also rename the file at the time of copying by supplying a new
+file name. For example, to copy <code>file_1.txt</code> inside the same
+directory and rename it <code>file_2.txt</code>, we would type:</p>
+<pre><code>cp file_1.txt file_2.txt</code></pre>
+<p>If we print out the contents from both files, we can see they are the
+same:</p>
+<pre><code>cat file_1.txt file_2.txt</code></pre>
+<p><br></p>
+</div>
+<div id="copying-directory" class="section level3" number="2.3.2">
+<h3><span class="header-section-number">2.3.2</span> Copying
+directory</h3>
+<p>Different from copying file, copying directory uses
+<code>cp -r</code> instead of <code>cp</code>. Let’s copy the directory
+for this workshop <code>/work/adina/liu2040/shell_101_materials</code>
+to your home directory <code>~</code>:</p>
+<pre><code>cp -r /work/adina/liu2040/shell_101_materials ~</code></pre>
+<p><br></p>
+</div>
+</div>
+<div id="removing-file-and-directory" class="section level2"
+number="2.4">
+<h2><span class="header-section-number">2.4</span> Removing file and
+directory</h2>
+<p>Let’s first navigate to your home directory and list all the contents
+in it:</p>
+<pre><code>cd ~</code></pre>
+<p>then</p>
+<pre><code>ls</code></pre>
+<p><br></p>
+<div id="remove-file" class="section level3" number="2.4.1">
+<h3><span class="header-section-number">2.4.1</span> Remove file</h3>
+<p>We can remove file using <code>rm FILE_NAME</code>. For example,
+let’s remove the <code>file_1.txt</code>:</p>
+<pre><code>rm file_1.txt</code></pre>
+<p>If we list all the content now using <code>ls</code>, we can see
+<code>file_1.txt</code> is gone.</p>
+<p><br></p>
+</div>
+<div id="remove-directory" class="section level3" number="2.4.2">
+<h3><span class="header-section-number">2.4.2</span> Remove
+directory</h3>
+<p>We will use <code>rm -rf DIRECTORY_NAME</code> to remove the
+directory. Let’s remove the <code>test_dir</code>:</p>
+<pre><code>rm -rf test_dir</code></pre>
+<p><br></p>
+</div>
+</div>
+</div>
+<div id="searching-files-with-grep" class="section level1" number="3">
+<h1><span class="header-section-number">3</span>
+<font color="green">Searching files with <code>GREP</code></font></h1>
+<p>Let’s first go to the <code>shell_101_materials</code> folder in our
+home directory:</p>
+<pre><code>cd ~/shell_101_materials
+
+ls</code></pre>
+<p><br></p>
+<div id="search-for-specific-patterns-in-a-file" class="section level2"
+number="3.1">
+<h2><span class="header-section-number">3.1</span> Search for specific
+patterns in a file</h2>
+<p>We can see there is a file called
+<code>transcripts_from_Friends.txt</code>. If we display the content in
+this file we can see it’s part of the transcripts from the TV show
+Friends, where Phoebe is teaching Stephanie her song <em>Smelly
+Cat</em>:</p>
+<pre><code>cat transcripts_from_Friends.txt</code></pre>
+<p>Output:</p>
+<p><img src="images/smelly_cat.png" style="width:100.0%" /></p>
+<p>What to do if I want to search all the words “Smelly” in this file?
+<code>grep "PATTERN" FILE_NAME</code> is the function to go. We can
+search all the appearances of <code>Smelly</code> in the file
+<code>transcripts_from_Friends.txt</code> through:</p>
+<pre><code>grep &quot;Smelly&quot; transcripts_from_Friends.txt</code></pre>
+<p>Output:</p>
+<p><img src="images/Smelly.png" style="width:100.0%" /></p>
+<p><code>grep</code> found all the <code>Smelly</code> in this file.
+Notice that most of the functions in Shell are case-sensitive, which
+means our command above will only return <strong>Smelly</strong> as that
+was what we searched; so even there are some <strong>smelly</strong> in
+the file, <code>grep</code> will not return these patterns.</p>
+<p>There are also some “smel-ly” in the file. What if we want to capture
+multiple patterns in a file, say all the <strong>Smelly</strong>,
+<strong>smelly</strong>, and <strong>smel-ly</strong> in this file?
+<code>grep</code> can search more than one pattern in a file, where the
+patterns need to be separated by <code>\|</code>, so the command will
+look like this: <code>grep "PATTERN_1\|PATTERN_2" FILE_NAME</code>. For
+example, we can find the appearances of “Smelly”, “smelly” and “smel-ly”
+in the file <code>transcripts_from_Friends.txt</code> by:</p>
+<pre><code>grep &quot;Smelly\|smelly\|smel-ly&quot; transcripts_from_Friends.txt </code></pre>
+<p>Output:</p>
+<p><img src="images/Smelly_and_smelly_and_smel-ly.png"
+style="width:100.0%" /> <br></p>
+</div>
+<div id="search-the-patterns-that-locate-at-the-beginning-of-the-lines"
+class="section level2" number="3.2">
+<h2><span class="header-section-number">3.2</span> Search the patterns
+that locate at the beginning of the lines</h2>
+<p><code>grep</code> allows you to search the patterns more
+specifically. For example, only find those patterns that locate at the
+beginning of the lines by “^PATTERN”, the “^” symbol defines at the
+beginning of a line. In the case of the
+<code>transcripts_from_Friends.txt</code>, we can find all the
+transcripts from Phoebe (where Phoebe’s name will be at the beginning of
+the lines) through:</p>
+<pre><code>grep &quot;^Phoebe&quot; transcripts_from_Friends.txt</code></pre>
+<p><img src="images/phebe.png" style="width:100.0%" /></p>
+<p><br></p>
+<div id="exercise" class="section level3" number="3.2.1">
+<h3><span class="header-section-number">3.2.1</span> Exercise</h3>
+<p><strong>Useful information:</strong></p>
+<p>If you <code>ls</code> the content in the current directory, you can
+see 8 sample metagenome files in addition to the
+<code>transcripts_from_Friends.txt</code>. You can view the first 10
+lines of a file using the <code>head FILE_NAME</code>. Let’s have a look
+at the first few lines of <code>mgm4667216.3_299.1.fa</code>:</p>
+<pre><code>head mgm4667216.3_299.1.fa</code></pre>
+<p>Output:</p>
+<p><img src="images/new_singleL_DNA.png" style="width:100.0%" /></p>
+<p>Above is how a DNA file typically look like. There will be lines that
+starts with a “&gt;” symbol, which are the gene ID lines that tell you
+the name and sometimes more descriptions about the genes. The gene ID
+line will then followed by the nucleotide sequence of the corresponding
+gene. The sequence often only takes one line as shown above, but it may
+sometimes take multiple lines as shown in the below:</p>
+<p><img src="images/multipleL_DNA.png" style="width:100.0%" /></p>
+<p>So normally, when we want to count how many genes are there in a DNA
+file, we will count the number of gene ID lines, the ones that start
+with <code>&gt;</code>, in that file.</p>
+<p><strong>Question:</strong> how many genes are there in the file
+<code>mgm4508939.3_299.1.fa</code>?</p>
+<p><strong>Hint:</strong></p>
+<ul>
+<li><p>Search all the lines in <code>mgm4508939.3_299.1.fa</code> that
+starts with the pattern <code>&gt;</code>, and save the returned gene ID
+lines into a file with the name of your choice</p></li>
+<li><p>Count the number of lines of the file from the last step</p></li>
+</ul>
+<p><br></p>
+</div>
+<div id="solution" class="section level3" number="3.2.2">
+<h3><span class="header-section-number">3.2.2</span> Solution</h3>
+<p><br></p>
+<div id="key-1" class="section level4" number="3.2.2.1">
+<h4><span class="header-section-number">3.2.2.1</span> Key 1</h4>
+<pre><code>grep &#39;^&gt;&#39; mgm4508939.3_299.1.fa &gt; mgm4508939.3_299.1_geneIDs.txt</code></pre>
+<pre><code>wc -l mgm4508939.3_299.1_geneIDs.txt</code></pre>
+<p><br></p>
+</div>
+<div id="key-2" class="section level4" number="3.2.2.2">
+<h4><span class="header-section-number">3.2.2.2</span> Key 2</h4>
+<p>Notice that our goal for this problem is to get the total number of
+genes within the file <code>mgm4508939.3_299.1.fa</code>. Key 1 did the
+job, but created an extra file
+<code>mgm4508939.3_299.1_geneIDs.txt</code> that we may never use in the
+future. <code>grep '^&gt;' mgm4508939.3_299.1.fa</code> returns all the
+gene ID lines that start with <code>&gt;</code> in the file, is there a
+way that we can directly pass the returned lines to the next function
+<code>wc -l</code> for counting, without saving them to a file
+first?</p>
+<p><img src="images/geneIDs.png" style="width:100.0%" /></p>
+<p>Yes, there is! You can use <code>|</code> to pass the output from the
+command on its left, to the command on its right. So in this case, we
+can pass the output of <code>grep '^&gt;' mgm4508939.3_299.1.fa</code>
+to the <code>wc -l</code> command through:</p>
+<pre><code>grep &#39;^&gt;&#39; mgm4508939.3_299.1.fa | wc -l</code></pre>
+<p>Output:</p>
+<pre><code>20</code></pre>
+</div>
+</div>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

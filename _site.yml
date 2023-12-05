@@ -1,0 +1,19 @@
+name: "Shell"
+output_dir: "."
+navbar:
+  title: "Shell"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Basic command line programming"
+      href: basic_command_line.html
+    - text: "Pseudocoding and For loop"
+      href: pseudocoding_forloops.html
+output:
+  html_document:
+    theme: sandstone
+    css: style.css
+    
+    
+    
+    

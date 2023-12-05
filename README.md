@@ -1,1 +1,5 @@
-# Shell_101_tutorial_2023Dec
+# R_basic_tutorial_2021Mar
+
+
+
+Tutorial website: https://jialiu232.github.io/R_basic_tutorial_2021Mar/

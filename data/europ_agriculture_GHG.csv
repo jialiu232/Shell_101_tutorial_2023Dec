@@ -1,0 +1,2177 @@
+Country_code,Country,Sector_code,Sector,Pollutant,Year,Value,Units
+AT,Austria,4,Agriculture,CH4,1990,230015.5015,Mg
+AT,Austria,4,Agriculture,CH4,1991,226797.9772,Mg
+AT,Austria,4,Agriculture,CH4,1992,218326.9742,Mg
+AT,Austria,4,Agriculture,CH4,1993,218808.6889,Mg
+AT,Austria,4,Agriculture,CH4,1994,219121.421,Mg
+AT,Austria,4,Agriculture,CH4,1995,220144.6053,Mg
+AT,Austria,4,Agriculture,CH4,1996,216805.5714,Mg
+AT,Austria,4,Agriculture,CH4,1997,213784.0394,Mg
+AT,Austria,4,Agriculture,CH4,1998,212921.9531,Mg
+AT,Austria,4,Agriculture,CH4,1999,208821.8124,Mg
+AT,Austria,4,Agriculture,CH4,2000,206616.4122,Mg
+AT,Austria,4,Agriculture,CH4,2001,204444.501,Mg
+AT,Austria,4,Agriculture,CH4,2002,200088.8304,Mg
+AT,Austria,4,Agriculture,CH4,2003,198537.4618,Mg
+AT,Austria,4,Agriculture,CH4,2004,196892.9833,Mg
+AT,Austria,4,Agriculture,CH4,2005,195704.3454,Mg
+AT,Austria,4,Agriculture,CH4,2006,194993.8491,Mg
+AT,Austria,4,Agriculture,CO2,1990,0,Mg
+AT,Austria,4,Agriculture,CO2,1991,0,Mg
+AT,Austria,4,Agriculture,CO2,1992,0,Mg
+AT,Austria,4,Agriculture,CO2,1993,0,Mg
+AT,Austria,4,Agriculture,CO2,1994,0,Mg
+AT,Austria,4,Agriculture,CO2,1995,0,Mg
+AT,Austria,4,Agriculture,CO2,1996,0,Mg
+AT,Austria,4,Agriculture,CO2,1997,0,Mg
+AT,Austria,4,Agriculture,CO2,1998,0,Mg
+AT,Austria,4,Agriculture,CO2,1999,0,Mg
+AT,Austria,4,Agriculture,CO2,2000,0,Mg
+AT,Austria,4,Agriculture,CO2,2001,0,Mg
+AT,Austria,4,Agriculture,CO2,2002,0,Mg
+AT,Austria,4,Agriculture,CO2,2003,0,Mg
+AT,Austria,4,Agriculture,CO2,2004,0,Mg
+AT,Austria,4,Agriculture,CO2,2005,0,Mg
+AT,Austria,4,Agriculture,CO2,2006,0,Mg
+AT,Austria,4,Agriculture,GWP,1990,9168740.281,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,1991,9351602.451,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,1992,8866415.422,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,1993,8634394.609,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,1994,9134499.536,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,1995,9240115.871,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,1996,8769951.6,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,1997,8743206.106,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,1998,8746553.692,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,1999,8583138.523,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,2000,8384711.535,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,2001,8329981.575,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,2002,8209371.497,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,2003,8021070.754,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,2004,7876414.358,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,2005,7854405.343,Mg CO2 Eq
+AT,Austria,4,Agriculture,GWP,2006,7889327.326,Mg CO2 Eq
+AT,Austria,4,Agriculture,N2O,1990,13994.88629,Mg
+AT,Austria,4,Agriculture,N2O,1991,14802.72558,Mg
+AT,Austria,4,Agriculture,N2O,1992,13811.44827,Mg
+AT,Austria,4,Agriculture,N2O,1993,13030.36175,Mg
+AT,Austria,4,Agriculture,N2O,1994,14622.41837,Mg
+AT,Austria,4,Agriculture,N2O,1995,14893.80374,Mg
+AT,Austria,4,Agriculture,N2O,1996,13603.33742,Mg
+AT,Austria,4,Agriculture,N2O,1997,13721.74606,Mg
+AT,Austria,4,Agriculture,N2O,1998,13790.94412,Mg
+AT,Austria,4,Agriculture,N2O,1999,13541.54988,Mg
+AT,Austria,4,Agriculture,N2O,2000,13050.8609,Mg
+AT,Austria,4,Agriculture,N2O,2001,13021.44211,Mg
+AT,Austria,4,Agriculture,N2O,2002,12927.4389,Mg
+AT,Austria,4,Agriculture,N2O,2003,12425.10986,Mg
+AT,Austria,4,Agriculture,N2O,2004,12069.87648,Mg
+AT,Austria,4,Agriculture,N2O,2005,12079.40029,Mg
+AT,Austria,4,Agriculture,N2O,2006,12240.18224,Mg
+BE,Belgium,4,Agriculture,CH4,1990,297420.3337,Mg
+BE,Belgium,4,Agriculture,CH4,1991,293605.9299,Mg
+BE,Belgium,4,Agriculture,CH4,1992,292786.9609,Mg
+BE,Belgium,4,Agriculture,CH4,1993,295309.499,Mg
+BE,Belgium,4,Agriculture,CH4,1994,296934.2759,Mg
+BE,Belgium,4,Agriculture,CH4,1995,300723.5596,Mg
+BE,Belgium,4,Agriculture,CH4,1996,297258.4616,Mg
+BE,Belgium,4,Agriculture,CH4,1997,294878.6592,Mg
+BE,Belgium,4,Agriculture,CH4,1998,293760.7965,Mg
+BE,Belgium,4,Agriculture,CH4,1999,294528.5786,Mg
+BE,Belgium,4,Agriculture,CH4,2000,288916.4597,Mg
+BE,Belgium,4,Agriculture,CH4,2001,287803.4884,Mg
+BE,Belgium,4,Agriculture,CH4,2002,278490.8214,Mg
+BE,Belgium,4,Agriculture,CH4,2003,269036.5321,Mg
+BE,Belgium,4,Agriculture,CH4,2004,265508.1294,Mg
+BE,Belgium,4,Agriculture,CH4,2005,262360.6897,Mg
+BE,Belgium,4,Agriculture,CH4,2006,259807.7551,Mg
+BE,Belgium,4,Agriculture,CO2,1990,0,Mg
+BE,Belgium,4,Agriculture,CO2,1991,0,Mg
+BE,Belgium,4,Agriculture,CO2,1992,0,Mg
+BE,Belgium,4,Agriculture,CO2,1993,0,Mg
+BE,Belgium,4,Agriculture,CO2,1994,0,Mg
+BE,Belgium,4,Agriculture,CO2,1995,0,Mg
+BE,Belgium,4,Agriculture,CO2,1996,0,Mg
+BE,Belgium,4,Agriculture,CO2,1997,0,Mg
+BE,Belgium,4,Agriculture,CO2,1998,0,Mg
+BE,Belgium,4,Agriculture,CO2,1999,0,Mg
+BE,Belgium,4,Agriculture,CO2,2000,0,Mg
+BE,Belgium,4,Agriculture,CO2,2001,0,Mg
+BE,Belgium,4,Agriculture,CO2,2002,0,Mg
+BE,Belgium,4,Agriculture,CO2,2003,0,Mg
+BE,Belgium,4,Agriculture,CO2,2004,0,Mg
+BE,Belgium,4,Agriculture,CO2,2005,0,Mg
+BE,Belgium,4,Agriculture,CO2,2006,0,Mg
+BE,Belgium,4,Agriculture,GWP,1990,11751160.66,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,1991,11600824.53,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,1992,11538918.84,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,1993,11659710.44,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,1994,11719797.73,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,1995,11854415.31,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,1996,11697657.9,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,1997,11649756.33,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,1998,11644769.74,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,1999,11689207.62,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,2000,11352243.84,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,2001,11248025.94,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,2002,10952042.03,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,2003,10496755.39,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,2004,10422524.9,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,2005,10279481.4,Mg CO2 Eq
+BE,Belgium,4,Agriculture,GWP,2006,10182318.8,Mg CO2 Eq
+BE,Belgium,4,Agriculture,N2O,1990,17759.1408,Mg
+BE,Belgium,4,Agriculture,N2O,1991,17532.58065,Mg
+BE,Belgium,4,Agriculture,N2O,1992,17388.36341,Mg
+BE,Belgium,4,Agriculture,N2O,1993,17607.13212,Mg
+BE,Belgium,4,Agriculture,N2O,1994,17690.89656,Mg
+BE,Belgium,4,Agriculture,N2O,1995,17868.4534,Mg
+BE,Belgium,4,Agriculture,N2O,1996,17597.51679,Mg
+BE,Belgium,4,Agriculture,N2O,1997,17604.20803,Mg
+BE,Belgium,4,Agriculture,N2O,1998,17663.84844,Mg
+BE,Belgium,4,Agriculture,N2O,1999,17755.18539,Mg
+BE,Belgium,4,Agriculture,N2O,2000,17048.38126,Mg
+BE,Belgium,4,Agriculture,N2O,2001,16787.58931,Mg
+BE,Belgium,4,Agriculture,N2O,2002,16463.66058,Mg
+BE,Belgium,4,Agriculture,N2O,2003,15635.44585,Mg
+BE,Belgium,4,Agriculture,N2O,2004,15635.0135,Mg
+BE,Belgium,4,Agriculture,N2O,2005,15386.7965,Mg
+BE,Belgium,4,Agriculture,N2O,2006,15246.3095,Mg
+BG,Bulgaria,4,Agriculture,CH4,1990,258130.0491,Mg
+BG,Bulgaria,4,Agriculture,CH4,1991,234430.6632,Mg
+BG,Bulgaria,4,Agriculture,CH4,1992,192023.2741,Mg
+BG,Bulgaria,4,Agriculture,CH4,1993,150674.9975,Mg
+BG,Bulgaria,4,Agriculture,CH4,1994,126583.6971,Mg
+BG,Bulgaria,4,Agriculture,CH4,1995,121809.6143,Mg
+BG,Bulgaria,4,Agriculture,CH4,1996,115831.1167,Mg
+BG,Bulgaria,4,Agriculture,CH4,1997,110272.9776,Mg
+BG,Bulgaria,4,Agriculture,CH4,1998,114210.7929,Mg
+BG,Bulgaria,4,Agriculture,CH4,1999,115128.1562,Mg
+BG,Bulgaria,4,Agriculture,CH4,2000,108949.9132,Mg
+BG,Bulgaria,4,Agriculture,CH4,2001,84368.26355,Mg
+BG,Bulgaria,4,Agriculture,CH4,2002,95002.41751,Mg
+BG,Bulgaria,4,Agriculture,CH4,2003,99074.91936,Mg
+BG,Bulgaria,4,Agriculture,CH4,2004,98902.77833,Mg
+BG,Bulgaria,4,Agriculture,CH4,2005,93268.52158,Mg
+BG,Bulgaria,4,Agriculture,CH4,2006,93706.10558,Mg
+BG,Bulgaria,4,Agriculture,CO2,1990,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,1991,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,1992,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,1993,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,1994,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,1995,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,1996,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,1997,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,1998,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,1999,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,2000,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,2001,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,2002,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,2003,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,2004,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,2005,0,Mg
+BG,Bulgaria,4,Agriculture,CO2,2006,0,Mg
+BG,Bulgaria,4,Agriculture,GWP,1990,12953228.96,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,1991,10528845.61,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,1992,8524762.365,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,1993,7150114.927,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,1994,6591196.36,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,1995,5935331.22,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,1996,5696135.001,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,1997,5590832.725,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,1998,5309362.707,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,1999,5666093.191,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,2000,5394067.686,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,2001,4540662.025,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,2002,4859324.559,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,2003,4832726.517,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,2004,5081038.602,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,2005,4804026.173,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,GWP,2006,4720073.542,Mg CO2 Eq
+BG,Bulgaria,4,Agriculture,N2O,1990,24298.38041,Mg
+BG,Bulgaria,4,Agriculture,N2O,1991,18083.23122,Mg
+BG,Bulgaria,4,Agriculture,N2O,1992,14491.20519,Mg
+BG,Bulgaria,4,Agriculture,N2O,1993,12857.8709,Mg
+BG,Bulgaria,4,Agriculture,N2O,1994,12686.8991,Mg
+BG,Bulgaria,4,Agriculture,N2O,1995,10894.61071,Mg
+BG,Bulgaria,4,Agriculture,N2O,1996,10528.005,Mg
+BG,Bulgaria,4,Agriculture,N2O,1997,10564.83934,Mg
+BG,Bulgaria,4,Agriculture,N2O,1998,9390.11631,Mg
+BG,Bulgaria,4,Agriculture,N2O,1999,10478.71584,Mg
+BG,Bulgaria,4,Agriculture,N2O,2000,10019.74035,Mg
+BG,Bulgaria,4,Agriculture,N2O,2001,8932.02739,Mg
+BG,Bulgaria,4,Agriculture,N2O,2002,9239.592876,Mg
+BG,Bulgaria,4,Agriculture,N2O,2003,8877.913581,Mg
+BG,Bulgaria,4,Agriculture,N2O,2004,9690.581476,Mg
+BG,Bulgaria,4,Agriculture,N2O,2005,9178.66845,Mg
+BG,Bulgaria,4,Agriculture,N2O,2006,8878.210725,Mg
+CH,Switzerland,4,Agriculture,CH4,1990,144869.6912,Mg
+CH,Switzerland,4,Agriculture,CH4,1991,145143.924,Mg
+CH,Switzerland,4,Agriculture,CH4,1992,142829.2708,Mg
+CH,Switzerland,4,Agriculture,CH4,1993,140807.6318,Mg
+CH,Switzerland,4,Agriculture,CH4,1994,140464.1075,Mg
+CH,Switzerland,4,Agriculture,CH4,1995,140989.5637,Mg
+CH,Switzerland,4,Agriculture,CH4,1996,139895.9578,Mg
+CH,Switzerland,4,Agriculture,CH4,1997,137636.8766,Mg
+CH,Switzerland,4,Agriculture,CH4,1998,136808.0854,Mg
+CH,Switzerland,4,Agriculture,CH4,1999,135145.493,Mg
+CH,Switzerland,4,Agriculture,CH4,2000,134991.1491,Mg
+CH,Switzerland,4,Agriculture,CH4,2001,136520.0549,Mg
+CH,Switzerland,4,Agriculture,CH4,2002,135503.1036,Mg
+CH,Switzerland,4,Agriculture,CH4,2003,133499.14,Mg
+CH,Switzerland,4,Agriculture,CH4,2004,132158.9036,Mg
+CH,Switzerland,4,Agriculture,CH4,2005,133160.6509,Mg
+CH,Switzerland,4,Agriculture,CH4,2006,134046.5576,Mg
+CH,Switzerland,4,Agriculture,CO2,1990,0,Mg
+CH,Switzerland,4,Agriculture,CO2,1991,0,Mg
+CH,Switzerland,4,Agriculture,CO2,1992,0,Mg
+CH,Switzerland,4,Agriculture,CO2,1993,0,Mg
+CH,Switzerland,4,Agriculture,CO2,1994,0,Mg
+CH,Switzerland,4,Agriculture,CO2,1995,0,Mg
+CH,Switzerland,4,Agriculture,CO2,1996,0,Mg
+CH,Switzerland,4,Agriculture,CO2,1997,0,Mg
+CH,Switzerland,4,Agriculture,CO2,1998,0,Mg
+CH,Switzerland,4,Agriculture,CO2,1999,0,Mg
+CH,Switzerland,4,Agriculture,CO2,2000,0,Mg
+CH,Switzerland,4,Agriculture,CO2,2001,0,Mg
+CH,Switzerland,4,Agriculture,CO2,2002,0,Mg
+CH,Switzerland,4,Agriculture,CO2,2003,0,Mg
+CH,Switzerland,4,Agriculture,CO2,2004,0,Mg
+CH,Switzerland,4,Agriculture,CO2,2005,0,Mg
+CH,Switzerland,4,Agriculture,CO2,2006,0,Mg
+CH,Switzerland,4,Agriculture,GWP,1990,5903390.716,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,1991,5906786.36,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,1992,5832672.998,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,1993,5754735.749,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,1994,5705880.472,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,1995,5638347.593,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,1996,5655499.731,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,1997,5499086.095,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,1998,5467901.747,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,1999,5410338.872,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,2000,5411345.527,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,2001,5415952.596,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,2002,5390838.212,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,2003,5284771.577,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,2004,5258667.303,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,2005,5280819.151,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,GWP,2006,5288409.624,Mg CO2 Eq
+CH,Switzerland,4,Agriculture,N2O,1990,9229.442584,Mg
+CH,Switzerland,4,Agriculture,N2O,1991,9221.819212,Mg
+CH,Switzerland,4,Agriculture,N2O,1992,9139.542938,Mg
+CH,Switzerland,4,Agriculture,N2O,1993,9025.082196,Mg
+CH,Switzerland,4,Agriculture,N2O,1994,8890.75553,Mg
+CH,Switzerland,4,Agriculture,N2O,1995,8637.312115,Mg
+CH,Switzerland,4,Agriculture,N2O,1996,8766.724572,Mg
+CH,Switzerland,4,Agriculture,N2O,1997,8415.198988,Mg
+CH,Switzerland,4,Agriculture,N2O,1998,8370.748236,Mg
+CH,Switzerland,4,Agriculture,N2O,1999,8297.688772,Mg
+CH,Switzerland,4,Agriculture,N2O,2000,8311.391599,Mg
+CH,Switzerland,4,Agriculture,N2O,2001,8222.682075,Mg
+CH,Switzerland,4,Agriculture,N2O,2002,8210.558181,Mg
+CH,Switzerland,4,Agriculture,N2O,2003,8004.160119,Mg
+CH,Switzerland,4,Agriculture,N2O,2004,8010.742991,Mg
+CH,Switzerland,4,Agriculture,N2O,2005,8014.340264,Mg
+CH,Switzerland,4,Agriculture,N2O,2006,7978.812627,Mg
+CY,Cyprus,4,Agriculture,CH4,1990,12636.21612,Mg
+CY,Cyprus,4,Agriculture,CH4,1991,12863.02814,Mg
+CY,Cyprus,4,Agriculture,CH4,1992,13608.11181,Mg
+CY,Cyprus,4,Agriculture,CH4,1993,14418.24537,Mg
+CY,Cyprus,4,Agriculture,CH4,1994,14422.98304,Mg
+CY,Cyprus,4,Agriculture,CH4,1995,15048.99704,Mg
+CY,Cyprus,4,Agriculture,CH4,1996,15437.62268,Mg
+CY,Cyprus,4,Agriculture,CH4,1997,15136.64987,Mg
+CY,Cyprus,4,Agriculture,CH4,1998,14782.94629,Mg
+CY,Cyprus,4,Agriculture,CH4,1999,14551.11129,Mg
+CY,Cyprus,4,Agriculture,CH4,2000,14788.84429,Mg
+CY,Cyprus,4,Agriculture,CH4,2001,15919.26929,Mg
+CY,Cyprus,4,Agriculture,CH4,2002,17007.68129,Mg
+CY,Cyprus,4,Agriculture,CH4,2003,17166.55629,Mg
+CY,Cyprus,4,Agriculture,CH4,2004,14782.94629,Mg
+CY,Cyprus,4,Agriculture,CH4,2005,15214.45193,Mg
+CY,Cyprus,4,Agriculture,CH4,2006,15142.89521,Mg
+CY,Cyprus,4,Agriculture,CO2,1990,0,Mg
+CY,Cyprus,4,Agriculture,CO2,1991,0,Mg
+CY,Cyprus,4,Agriculture,CO2,1992,0,Mg
+CY,Cyprus,4,Agriculture,CO2,1993,0,Mg
+CY,Cyprus,4,Agriculture,CO2,1994,0,Mg
+CY,Cyprus,4,Agriculture,CO2,1995,0,Mg
+CY,Cyprus,4,Agriculture,CO2,1996,0,Mg
+CY,Cyprus,4,Agriculture,CO2,1997,0,Mg
+CY,Cyprus,4,Agriculture,CO2,1998,0,Mg
+CY,Cyprus,4,Agriculture,CO2,1999,0,Mg
+CY,Cyprus,4,Agriculture,CO2,2000,0,Mg
+CY,Cyprus,4,Agriculture,CO2,2001,0,Mg
+CY,Cyprus,4,Agriculture,CO2,2002,0,Mg
+CY,Cyprus,4,Agriculture,CO2,2003,0,Mg
+CY,Cyprus,4,Agriculture,CO2,2004,0,Mg
+CY,Cyprus,4,Agriculture,CO2,2005,0,Mg
+CY,Cyprus,4,Agriculture,CO2,2006,0,Mg
+CY,Cyprus,4,Agriculture,GWP,1990,570621.4572,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,1991,573446.3864,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,1992,621622.7245,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,1993,645217.7835,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,1994,639479.3301,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,1995,663498.8586,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,1996,684575.1652,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,1997,665995.5233,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,1998,671724.2495,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,1999,666855.7145,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,2000,671848.1075,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,2001,695587.0325,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,2002,718443.6845,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,2003,721780.0595,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,2004,671724.2495,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,2005,445621.3758,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,GWP,2006,449917.0072,Mg CO2 Eq
+CY,Cyprus,4,Agriculture,N2O,1990,984.712641,Mg
+CY,Cyprus,4,Agriculture,N2O,1991,978.4606304,Mg
+CY,Cyprus,4,Agriculture,N2O,1992,1083.394763,Mg
+CY,Cyprus,4,Agriculture,N2O,1993,1104.627841,Mg
+CY,Cyprus,4,Agriculture,N2O,1994,1085.795762,Mg
+CY,Cyprus,4,Agriculture,N2O,1995,1120.870712,Mg
+CY,Cyprus,4,Agriculture,N2O,1996,1162.532545,Mg
+CY,Cyprus,4,Agriculture,N2O,1997,1122.986697,Mg
+CY,Cyprus,4,Agriculture,N2O,1998,1165.427024,Mg
+CY,Cyprus,4,Agriculture,N2O,1999,1165.427024,Mg
+CY,Cyprus,4,Agriculture,N2O,2000,1165.427024,Mg
+CY,Cyprus,4,Agriculture,N2O,2001,1165.427024,Mg
+CY,Cyprus,4,Agriculture,N2O,2002,1165.427024,Mg
+CY,Cyprus,4,Agriculture,N2O,2003,1165.427024,Mg
+CY,Cyprus,4,Agriculture,N2O,2004,1165.427024,Mg
+CY,Cyprus,4,Agriculture,N2O,2005,406.8318881,Mg
+CY,Cyprus,4,Agriculture,N2O,2006,425.5361542,Mg
+CZ,Czech Republic,4,Agriculture,CH4,1990,279949.508,Mg
+CZ,Czech Republic,4,Agriculture,CH4,1991,264610.574,Mg
+CZ,Czech Republic,4,Agriculture,CH4,1992,238093.308,Mg
+CZ,Czech Republic,4,Agriculture,CH4,1993,207961.93,Mg
+CZ,Czech Republic,4,Agriculture,CH4,1994,182145.492,Mg
+CZ,Czech Republic,4,Agriculture,CH4,1995,176461.014,Mg
+CZ,Czech Republic,4,Agriculture,CH4,1996,175256.22,Mg
+CZ,Czech Republic,4,Agriculture,CH4,1997,164682.134,Mg
+CZ,Czech Republic,4,Agriculture,CH4,1998,154848.61,Mg
+CZ,Czech Republic,4,Agriculture,CH4,1999,157270.836,Mg
+CZ,Czech Republic,4,Agriculture,CH4,2000,150599.382,Mg
+CZ,Czech Republic,4,Agriculture,CH4,2001,151331.044,Mg
+CZ,Czech Republic,4,Agriculture,CH4,2002,147305.5207,Mg
+CZ,Czech Republic,4,Agriculture,CH4,2003,143331.084,Mg
+CZ,Czech Republic,4,Agriculture,CH4,2004,138373.352,Mg
+CZ,Czech Republic,4,Agriculture,CH4,2005,136330.25,Mg
+CZ,Czech Republic,4,Agriculture,CH4,2006,133947.078,Mg
+CZ,Czech Republic,4,Agriculture,CO2,1990,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,1991,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,1992,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,1993,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,1994,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,1995,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,1996,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,1997,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,1998,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,1999,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,2000,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,2001,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,2002,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,2003,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,2004,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,2005,0,Mg
+CZ,Czech Republic,4,Agriculture,CO2,2006,0,Mg
+CZ,Czech Republic,4,Agriculture,GWP,1990,15467442.68,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,1991,13714072.53,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,1992,11952285.7,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,1993,10445449.31,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,1994,9641511.856,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,1995,9579729.289,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,1996,9173834.163,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,1997,9003528.269,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,1998,8593936.315,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,1999,8601550.897,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,2000,8387135.91,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,2001,8587079.828,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,2002,8352007.095,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,2003,7771755.684,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,2004,8037494.562,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,2005,7737644.665,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,GWP,2006,7643660.575,Mg CO2 Eq
+CZ,Czech Republic,4,Agriculture,N2O,1990,30930.65488,Mg
+CZ,Czech Republic,4,Agriculture,N2O,1991,26313.7112,Mg
+CZ,Czech Republic,4,Agriculture,N2O,1992,22426.85881,Mg
+CZ,Czech Republic,4,Agriculture,N2O,1993,19607.25413,Mg
+CZ,Czech Republic,4,Agriculture,N2O,1994,18762.76298,Mg
+CZ,Czech Republic,4,Agriculture,N2O,1995,18948.54192,Mg
+CZ,Czech Republic,4,Agriculture,N2O,1996,17720.81788,Mg
+CZ,Czech Republic,4,Agriculture,N2O,1997,17887.75308,Mg
+CZ,Czech Republic,4,Agriculture,N2O,1998,17232.63066,Mg
+CZ,Czech Republic,4,Agriculture,N2O,1999,17093.10755,Mg
+CZ,Czech Republic,4,Agriculture,N2O,2000,16853.38351,Mg
+CZ,Czech Republic,4,Agriculture,N2O,2001,17448.79969,Mg
+CZ,Czech Republic,4,Agriculture,N2O,2002,16963.19729,Mg
+CZ,Czech Republic,4,Agriculture,N2O,2003,15360.65458,Mg
+CZ,Czech Republic,4,Agriculture,N2O,2004,16553.72313,Mg
+CZ,Czech Republic,4,Agriculture,N2O,2005,15724.86908,Mg
+CZ,Czech Republic,4,Agriculture,N2O,2006,15583.13528,Mg
+DE,Germany,4,Agriculture,CH4,1990,1394869.882,Mg
+DE,Germany,4,Agriculture,CH4,1991,1229984.291,Mg
+DE,Germany,4,Agriculture,CH4,1992,1201531.329,Mg
+DE,Germany,4,Agriculture,CH4,1993,1200185.421,Mg
+DE,Germany,4,Agriculture,CH4,1994,1220072.224,Mg
+DE,Germany,4,Agriculture,CH4,1995,1214755.078,Mg
+DE,Germany,4,Agriculture,CH4,1996,1213834.588,Mg
+DE,Germany,4,Agriculture,CH4,1997,1177353.559,Mg
+DE,Germany,4,Agriculture,CH4,1998,1170304.558,Mg
+DE,Germany,4,Agriculture,CH4,1999,1175481.399,Mg
+DE,Germany,4,Agriculture,CH4,2000,1152793.829,Mg
+DE,Germany,4,Agriculture,CH4,2001,1170528.761,Mg
+DE,Germany,4,Agriculture,CH4,2002,1128277.414,Mg
+DE,Germany,4,Agriculture,CH4,2003,1111683.9,Mg
+DE,Germany,4,Agriculture,CH4,2004,1080673.56,Mg
+DE,Germany,4,Agriculture,CH4,2005,1079158.91,Mg
+DE,Germany,4,Agriculture,CH4,2006,1079158.91,Mg
+DE,Germany,4,Agriculture,CO2,1990,0,Mg
+DE,Germany,4,Agriculture,CO2,1991,0,Mg
+DE,Germany,4,Agriculture,CO2,1992,0,Mg
+DE,Germany,4,Agriculture,CO2,1993,0,Mg
+DE,Germany,4,Agriculture,CO2,1994,0,Mg
+DE,Germany,4,Agriculture,CO2,1995,0,Mg
+DE,Germany,4,Agriculture,CO2,1996,0,Mg
+DE,Germany,4,Agriculture,CO2,1997,0,Mg
+DE,Germany,4,Agriculture,CO2,1998,0,Mg
+DE,Germany,4,Agriculture,CO2,1999,0,Mg
+DE,Germany,4,Agriculture,CO2,2000,0,Mg
+DE,Germany,4,Agriculture,CO2,2001,0,Mg
+DE,Germany,4,Agriculture,CO2,2002,0,Mg
+DE,Germany,4,Agriculture,CO2,2003,0,Mg
+DE,Germany,4,Agriculture,CO2,2004,0,Mg
+DE,Germany,4,Agriculture,CO2,2005,0,Mg
+DE,Germany,4,Agriculture,CO2,2006,0,Mg
+DE,Germany,4,Agriculture,GWP,1990,77684942.98,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,1991,70132207.52,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,1992,68129481.5,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,1993,67001242.36,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,1994,64968349.51,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,1995,66589254.14,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,1996,66581337.59,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,1997,65485762.15,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,1998,65688006.35,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,1999,66951394.06,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,2000,67121805.74,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,2001,66585726.71,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,2002,64611775.94,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,2003,64286952.1,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,2004,63957104.83,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,2005,63542439.68,Mg CO2 Eq
+DE,Germany,4,Agriculture,GWP,2006,63542439.68,Mg CO2 Eq
+DE,Germany,4,Agriculture,N2O,1990,156105.4047,Mg
+DE,Germany,4,Agriculture,N2O,1991,142911.411,Mg
+DE,Germany,4,Agriculture,N2O,1992,138378.4632,Mg
+DE,Germany,4,Agriculture,N2O,1993,134830.1565,Mg
+DE,Germany,4,Agriculture,N2O,1994,126925.2671,Mg
+DE,Germany,4,Agriculture,N2O,1995,132514.1855,Mg
+DE,Germany,4,Agriculture,N2O,1996,132551.004,Mg
+DE,Germany,4,Agriculture,N2O,1997,131488.1852,Mg
+DE,Germany,4,Agriculture,N2O,1998,132618.0988,Mg
+DE,Germany,4,Agriculture,N2O,1999,136342.8538,Mg
+DE,Germany,4,Agriculture,N2O,2000,138429.4688,Mg
+DE,Germany,4,Agriculture,N2O,2001,135498.783,Mg
+DE,Germany,4,Agriculture,N2O,2002,131993.3879,Mg
+DE,Germany,4,Agriculture,N2O,2003,132069.6458,Mg
+DE,Germany,4,Agriculture,N2O,2004,133106.3228,Mg
+DE,Germany,4,Agriculture,N2O,2005,131871.2986,Mg
+DE,Germany,4,Agriculture,N2O,2006,131871.2986,Mg
+DK,Denmark,4,Agriculture,CH4,1990,190963.9283,Mg
+DK,Denmark,4,Agriculture,CH4,1991,192945.4994,Mg
+DK,Denmark,4,Agriculture,CH4,1992,193387.0065,Mg
+DK,Denmark,4,Agriculture,CH4,1993,197733.5003,Mg
+DK,Denmark,4,Agriculture,CH4,1994,191319.2888,Mg
+DK,Denmark,4,Agriculture,CH4,1995,189673.1168,Mg
+DK,Denmark,4,Agriculture,CH4,1996,190591,Mg
+DK,Denmark,4,Agriculture,CH4,1997,185993.8707,Mg
+DK,Denmark,4,Agriculture,CH4,1998,187709.7742,Mg
+DK,Denmark,4,Agriculture,CH4,1999,181101.0502,Mg
+DK,Denmark,4,Agriculture,CH4,2000,181725.0069,Mg
+DK,Denmark,4,Agriculture,CH4,2001,186049.1943,Mg
+DK,Denmark,4,Agriculture,CH4,2002,183103.4981,Mg
+DK,Denmark,4,Agriculture,CH4,2003,181443.8151,Mg
+DK,Denmark,4,Agriculture,CH4,2004,178000.63,Mg
+DK,Denmark,4,Agriculture,CH4,2005,175518.7459,Mg
+DK,Denmark,4,Agriculture,CH4,2006,173561.0698,Mg
+DK,Denmark,4,Agriculture,CO2,1990,0,Mg
+DK,Denmark,4,Agriculture,CO2,1991,0,Mg
+DK,Denmark,4,Agriculture,CO2,1992,0,Mg
+DK,Denmark,4,Agriculture,CO2,1993,0,Mg
+DK,Denmark,4,Agriculture,CO2,1994,0,Mg
+DK,Denmark,4,Agriculture,CO2,1995,0,Mg
+DK,Denmark,4,Agriculture,CO2,1996,0,Mg
+DK,Denmark,4,Agriculture,CO2,1997,0,Mg
+DK,Denmark,4,Agriculture,CO2,1998,0,Mg
+DK,Denmark,4,Agriculture,CO2,1999,0,Mg
+DK,Denmark,4,Agriculture,CO2,2000,0,Mg
+DK,Denmark,4,Agriculture,CO2,2001,0,Mg
+DK,Denmark,4,Agriculture,CO2,2002,0,Mg
+DK,Denmark,4,Agriculture,CO2,2003,0,Mg
+DK,Denmark,4,Agriculture,CO2,2004,0,Mg
+DK,Denmark,4,Agriculture,CO2,2005,0,Mg
+DK,Denmark,4,Agriculture,CO2,2006,0,Mg
+DK,Denmark,4,Agriculture,GWP,1990,13043717.03,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,1991,12931372.8,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,1992,12637046.53,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,1993,12540347.56,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,1994,12179629.31,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,1995,11937786.62,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,1996,11615371.63,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,1997,11430296.34,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,1998,11432987.13,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,1999,10856100.01,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,2000,10607300.61,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,2001,10549176.06,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,2002,10247839.41,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,2003,9996557.081,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,2004,10027406.21,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,2005,9952279.454,Mg CO2 Eq
+DK,Denmark,4,Agriculture,GWP,2006,9605141.476,Mg CO2 Eq
+DK,Denmark,4,Agriculture,N2O,1990,29140.24045,Mg
+DK,Denmark,4,Agriculture,N2O,1991,28643.60423,Mg
+DK,Denmark,4,Agriculture,N2O,1992,27664.2561,Mg
+DK,Denmark,4,Agriculture,N2O,1993,27057.88404,Mg
+DK,Denmark,4,Agriculture,N2O,1994,26328.78788,Mg
+DK,Denmark,4,Agriculture,N2O,1995,25660.16506,Mg
+DK,Denmark,4,Agriculture,N2O,1996,24557.9375,Mg
+DK,Denmark,4,Agriculture,N2O,1997,24272.33889,Mg
+DK,Denmark,4,Agriculture,N2O,1998,24164.78024,Mg
+DK,Denmark,4,Agriculture,N2O,1999,22751.54179,Mg
+DK,Denmark,4,Agriculture,N2O,2000,21906.69504,Mg
+DK,Denmark,4,Agriculture,N2O,2001,21426.26769,Mg
+DK,Denmark,4,Agriculture,N2O,2002,20653.76114,Mg
+DK,Denmark,4,Agriculture,N2O,2003,19955.60311,Mg
+DK,Denmark,4,Agriculture,N2O,2004,20288.36444,Mg
+DK,Denmark,4,Agriculture,N2O,2005,20214.14771,Mg
+DK,Denmark,4,Agriculture,N2O,2006,19226.96455,Mg
+EE,Estonia,4,Agriculture,CH4,1990,61602.14647,Mg
+EE,Estonia,4,Agriculture,CH4,1991,57540.53646,Mg
+EE,Estonia,4,Agriculture,CH4,1992,48648.43504,Mg
+EE,Estonia,4,Agriculture,CH4,1993,37989.75101,Mg
+EE,Estonia,4,Agriculture,CH4,1994,35325.70277,Mg
+EE,Estonia,4,Agriculture,CH4,1995,31800.81931,Mg
+EE,Estonia,4,Agriculture,CH4,1996,29235.4723,Mg
+EE,Estonia,4,Agriculture,CH4,1997,28969.85128,Mg
+EE,Estonia,4,Agriculture,CH4,1998,28118.44001,Mg
+EE,Estonia,4,Agriculture,CH4,1999,23459.47814,Mg
+EE,Estonia,4,Agriculture,CH4,2000,23245.5213,Mg
+EE,Estonia,4,Agriculture,CH4,2001,24328.64986,Mg
+EE,Estonia,4,Agriculture,CH4,2002,23186.71937,Mg
+EE,Estonia,4,Agriculture,CH4,2003,24243.79223,Mg
+EE,Estonia,4,Agriculture,CH4,2004,24432.78437,Mg
+EE,Estonia,4,Agriculture,CH4,2005,24498.26443,Mg
+EE,Estonia,4,Agriculture,CH4,2006,24174.83682,Mg
+EE,Estonia,4,Agriculture,CO2,1990,0,Mg
+EE,Estonia,4,Agriculture,CO2,1991,0,Mg
+EE,Estonia,4,Agriculture,CO2,1992,0,Mg
+EE,Estonia,4,Agriculture,CO2,1993,0,Mg
+EE,Estonia,4,Agriculture,CO2,1994,0,Mg
+EE,Estonia,4,Agriculture,CO2,1995,0,Mg
+EE,Estonia,4,Agriculture,CO2,1996,0,Mg
+EE,Estonia,4,Agriculture,CO2,1997,0,Mg
+EE,Estonia,4,Agriculture,CO2,1998,0,Mg
+EE,Estonia,4,Agriculture,CO2,1999,0,Mg
+EE,Estonia,4,Agriculture,CO2,2000,0,Mg
+EE,Estonia,4,Agriculture,CO2,2001,0,Mg
+EE,Estonia,4,Agriculture,CO2,2002,0,Mg
+EE,Estonia,4,Agriculture,CO2,2003,0,Mg
+EE,Estonia,4,Agriculture,CO2,2004,0,Mg
+EE,Estonia,4,Agriculture,CO2,2005,0,Mg
+EE,Estonia,4,Agriculture,CO2,2006,0,Mg
+EE,Estonia,4,Agriculture,GWP,1990,3225365.803,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,1991,3029460.367,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,1992,2575584.706,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,1993,1957420.227,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,1994,1762721.311,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,1995,1574654.015,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,1996,1422660.067,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,1997,1464221.071,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,1998,1491077.751,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,1999,1223441.606,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,2000,1289434.206,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,2001,1254990.636,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,2002,1171583.326,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,2003,1198629.705,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,2004,1212149.825,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,2005,1189068.648,Mg CO2 Eq
+EE,Estonia,4,Agriculture,GWP,2006,1201657.17,Mg CO2 Eq
+EE,Estonia,4,Agriculture,N2O,1990,6231.357185,Mg
+EE,Estonia,4,Agriculture,N2O,1991,5874.545487,Mg
+EE,Estonia,4,Agriculture,N2O,1992,5012.798615,Mg
+EE,Estonia,4,Agriculture,N2O,1993,3740.759536,Mg
+EE,Estonia,4,Agriculture,N2O,1994,3293.166299,Mg
+EE,Estonia,4,Agriculture,N2O,1995,2925.280029,Mg
+EE,Estonia,4,Agriculture,N2O,1996,2608.758544,Mg
+EE,Estonia,4,Agriculture,N2O,1997,2760.819982,Mg
+EE,Estonia,4,Agriculture,N2O,1998,2905.13068,Mg
+EE,Estonia,4,Agriculture,N2O,1999,2357.395371,Mg
+EE,Estonia,4,Agriculture,N2O,2000,2584.768578,Mg
+EE,Estonia,4,Agriculture,N2O,2001,2400.287062,Mg
+EE,Estonia,4,Agriculture,N2O,2002,2208.587805,Mg
+EE,Estonia,4,Agriculture,N2O,2003,2224.226025,Mg
+EE,Estonia,4,Agriculture,N2O,2004,2255.036624,Mg
+EE,Estonia,4,Agriculture,N2O,2005,2176.145468,Mg
+EE,Estonia,4,Agriculture,N2O,2006,2238.663215,Mg
+ES,Spain,4,Agriculture,CH4,1990,888115.0122,Mg
+ES,Spain,4,Agriculture,CH4,1991,896178.68,Mg
+ES,Spain,4,Agriculture,CH4,1992,913435.4157,Mg
+ES,Spain,4,Agriculture,CH4,1993,915839.8704,Mg
+ES,Spain,4,Agriculture,CH4,1994,927757.8852,Mg
+ES,Spain,4,Agriculture,CH4,1995,937145.5883,Mg
+ES,Spain,4,Agriculture,CH4,1996,983132.5188,Mg
+ES,Spain,4,Agriculture,CH4,1997,1000175.604,Mg
+ES,Spain,4,Agriculture,CH4,1998,1033444.508,Mg
+ES,Spain,4,Agriculture,CH4,1999,1040844.169,Mg
+ES,Spain,4,Agriculture,CH4,2000,1068750.615,Mg
+ES,Spain,4,Agriculture,CH4,2001,1091305.653,Mg
+ES,Spain,4,Agriculture,CH4,2002,1090993.486,Mg
+ES,Spain,4,Agriculture,CH4,2003,1115785.756,Mg
+ES,Spain,4,Agriculture,CH4,2004,1110332.269,Mg
+ES,Spain,4,Agriculture,CH4,2005,1091315.328,Mg
+ES,Spain,4,Agriculture,CH4,2006,1128949.936,Mg
+ES,Spain,4,Agriculture,CO2,1990,0,Mg
+ES,Spain,4,Agriculture,CO2,1991,0,Mg
+ES,Spain,4,Agriculture,CO2,1992,0,Mg
+ES,Spain,4,Agriculture,CO2,1993,0,Mg
+ES,Spain,4,Agriculture,CO2,1994,0,Mg
+ES,Spain,4,Agriculture,CO2,1995,0,Mg
+ES,Spain,4,Agriculture,CO2,1996,0,Mg
+ES,Spain,4,Agriculture,CO2,1997,0,Mg
+ES,Spain,4,Agriculture,CO2,1998,0,Mg
+ES,Spain,4,Agriculture,CO2,1999,0,Mg
+ES,Spain,4,Agriculture,CO2,2000,0,Mg
+ES,Spain,4,Agriculture,CO2,2001,0,Mg
+ES,Spain,4,Agriculture,CO2,2002,0,Mg
+ES,Spain,4,Agriculture,CO2,2003,0,Mg
+ES,Spain,4,Agriculture,CO2,2004,0,Mg
+ES,Spain,4,Agriculture,CO2,2005,0,Mg
+ES,Spain,4,Agriculture,CO2,2006,0,Mg
+ES,Spain,4,Agriculture,GWP,1990,40330181.18,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,1991,40265230.36,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,1992,39713314,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,1993,38144490.45,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,1994,40518352.62,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,1995,39877020.53,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,1996,43882389.17,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,1997,43330963.57,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,1998,45365183.19,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,1999,46165034.74,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,2000,47761711.55,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,2001,47037814.53,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,2002,45980073.28,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,2003,48323119.84,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,2004,47199796.78,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,2005,44881760.32,Mg CO2 Eq
+ES,Spain,4,Agriculture,GWP,2006,46181379.15,Mg CO2 Eq
+ES,Spain,4,Agriculture,N2O,1990,69934.72878,Mg
+ES,Spain,4,Agriculture,N2O,1991,69178.96155,Mg
+ES,Spain,4,Agriculture,N2O,1992,66229.58153,Mg
+ES,Spain,4,Agriculture,N2O,1993,61005.97796,Mg
+ES,Spain,4,Agriculture,N2O,1994,67856.2485,Mg
+ES,Spain,4,Agriculture,N2O,1995,65151.49412,Mg
+ES,Spain,4,Agriculture,N2O,1996,74956.79443,Mg
+ES,Spain,4,Agriculture,N2O,1997,72023.4706,Mg
+ES,Spain,4,Agriculture,N2O,1998,76331.76944,Mg
+ES,Spain,4,Agriculture,N2O,1999,78410.66836,Mg
+ES,Spain,4,Agriculture,N2O,2000,81670.80204,Mg
+ES,Spain,4,Agriculture,N2O,2001,77807.72845,Mg
+ES,Spain,4,Agriculture,N2O,2002,74416.8067,Mg
+ES,Spain,4,Agriculture,N2O,2003,80295.54506,Mg
+ES,Spain,4,Agriculture,N2O,2004,77041.35202,Mg
+ES,Spain,4,Agriculture,N2O,2005,70852.05945,Mg
+ES,Spain,4,Agriculture,N2O,2006,72494.93709,Mg
+FI,Finland,4,Agriculture,CH4,1990,102278.8831,Mg
+FI,Finland,4,Agriculture,CH4,1991,98355.47764,Mg
+FI,Finland,4,Agriculture,CH4,1992,95516.0353,Mg
+FI,Finland,4,Agriculture,CH4,1993,95548.44211,Mg
+FI,Finland,4,Agriculture,CH4,1994,96042.0107,Mg
+FI,Finland,4,Agriculture,CH4,1995,92090.1928,Mg
+FI,Finland,4,Agriculture,CH4,1996,92593.28539,Mg
+FI,Finland,4,Agriculture,CH4,1997,94211.88723,Mg
+FI,Finland,4,Agriculture,CH4,1998,92255.43823,Mg
+FI,Finland,4,Agriculture,CH4,1999,90900.81857,Mg
+FI,Finland,4,Agriculture,CH4,2000,90929.87058,Mg
+FI,Finland,4,Agriculture,CH4,2001,89511.08721,Mg
+FI,Finland,4,Agriculture,CH4,2002,90508.95655,Mg
+FI,Finland,4,Agriculture,CH4,2003,89499.60465,Mg
+FI,Finland,4,Agriculture,CH4,2004,88481.84243,Mg
+FI,Finland,4,Agriculture,CH4,2005,88189.87871,Mg
+FI,Finland,4,Agriculture,CH4,2006,87821.06796,Mg
+FI,Finland,4,Agriculture,CO2,1990,0,Mg
+FI,Finland,4,Agriculture,CO2,1991,0,Mg
+FI,Finland,4,Agriculture,CO2,1992,0,Mg
+FI,Finland,4,Agriculture,CO2,1993,0,Mg
+FI,Finland,4,Agriculture,CO2,1994,0,Mg
+FI,Finland,4,Agriculture,CO2,1995,0,Mg
+FI,Finland,4,Agriculture,CO2,1996,0,Mg
+FI,Finland,4,Agriculture,CO2,1997,0,Mg
+FI,Finland,4,Agriculture,CO2,1998,0,Mg
+FI,Finland,4,Agriculture,CO2,1999,0,Mg
+FI,Finland,4,Agriculture,CO2,2000,0,Mg
+FI,Finland,4,Agriculture,CO2,2001,0,Mg
+FI,Finland,4,Agriculture,CO2,2002,0,Mg
+FI,Finland,4,Agriculture,CO2,2003,0,Mg
+FI,Finland,4,Agriculture,CO2,2004,0,Mg
+FI,Finland,4,Agriculture,CO2,2005,0,Mg
+FI,Finland,4,Agriculture,CO2,2006,0,Mg
+FI,Finland,4,Agriculture,GWP,1990,7113472.654,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,1991,6677571.021,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,1992,6201070.3,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,1993,6219612.023,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,1994,6215855.797,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,1995,6317604.275,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,1996,6213833.835,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,1997,6198451.974,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,1998,6054288.655,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,1999,5918341.492,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,2000,5960541.404,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,2001,5846705.197,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,2002,5819512.006,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,2003,5737769.6,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,2004,5616641.728,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,2005,5595189.477,Mg CO2 Eq
+FI,Finland,4,Agriculture,GWP,2006,5564461.752,Mg CO2 Eq
+FI,Finland,4,Agriculture,N2O,1990,16018.11648,Mg
+FI,Finland,4,Agriculture,N2O,1991,14877.76126,Mg
+FI,Finland,4,Agriculture,N2O,1992,13533.01148,Mg
+FI,Finland,4,Agriculture,N2O,1993,13590.62819,Mg
+FI,Finland,4,Agriculture,N2O,1994,13545.07604,Mg
+FI,Finland,4,Agriculture,N2O,1995,14141.00073,Mg
+FI,Finland,4,Agriculture,N2O,1996,13772.17691,Mg
+FI,Finland,4,Agriculture,N2O,1997,13612.91078,Mg
+FI,Finland,4,Agriculture,N2O,1998,13280.40146,Mg
+FI,Finland,4,Agriculture,N2O,1999,12933.62678,Mg
+FI,Finland,4,Agriculture,N2O,2000,13067.78749,Mg
+FI,Finland,4,Agriculture,N2O,2001,12796.68505,Mg
+FI,Finland,4,Agriculture,N2O,2002,12641.36748,Mg
+FI,Finland,4,Agriculture,N2O,2003,12446.05775,Mg
+FI,Finland,4,Agriculture,N2O,2004,12124.26786,Mg
+FI,Finland,4,Agriculture,N2O,2005,12074.84524,Mg
+FI,Finland,4,Agriculture,N2O,2006,12000.7075,Mg
+FR,France,4,Agriculture,CH4,1990,2117226.301,Mg
+FR,France,4,Agriculture,CH4,1991,2085377.331,Mg
+FR,France,4,Agriculture,CH4,1992,2053185.681,Mg
+FR,France,4,Agriculture,CH4,1993,2042355.509,Mg
+FR,France,4,Agriculture,CH4,1994,2046165.449,Mg
+FR,France,4,Agriculture,CH4,1995,2053636.583,Mg
+FR,France,4,Agriculture,CH4,1996,2055057.23,Mg
+FR,France,4,Agriculture,CH4,1997,2034527.476,Mg
+FR,France,4,Agriculture,CH4,1998,2025837.711,Mg
+FR,France,4,Agriculture,CH4,1999,2024909.853,Mg
+FR,France,4,Agriculture,CH4,2000,2046602.84,Mg
+FR,France,4,Agriculture,CH4,2001,2059639.106,Mg
+FR,France,4,Agriculture,CH4,2002,2036131.54,Mg
+FR,France,4,Agriculture,CH4,2003,1995978.702,Mg
+FR,France,4,Agriculture,CH4,2004,1977923.76,Mg
+FR,France,4,Agriculture,CH4,2005,1978523.203,Mg
+FR,France,4,Agriculture,CH4,2006,1978341.197,Mg
+FR,France,4,Agriculture,CO2,1990,0,Mg
+FR,France,4,Agriculture,CO2,1991,0,Mg
+FR,France,4,Agriculture,CO2,1992,0,Mg
+FR,France,4,Agriculture,CO2,1993,0,Mg
+FR,France,4,Agriculture,CO2,1994,0,Mg
+FR,France,4,Agriculture,CO2,1995,0,Mg
+FR,France,4,Agriculture,CO2,1996,0,Mg
+FR,France,4,Agriculture,CO2,1997,0,Mg
+FR,France,4,Agriculture,CO2,1998,0,Mg
+FR,France,4,Agriculture,CO2,1999,0,Mg
+FR,France,4,Agriculture,CO2,2000,0,Mg
+FR,France,4,Agriculture,CO2,2001,0,Mg
+FR,France,4,Agriculture,CO2,2002,0,Mg
+FR,France,4,Agriculture,CO2,2003,0,Mg
+FR,France,4,Agriculture,CO2,2004,0,Mg
+FR,France,4,Agriculture,CO2,2005,0,Mg
+FR,France,4,Agriculture,CO2,2006,0,Mg
+FR,France,4,Agriculture,GWP,1990,107181932.9,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,1991,104319686.2,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,1992,104181252.1,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,1993,99748604.22,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,1994,100228862.3,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,1995,100888505.3,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,1996,101630604.8,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,1997,102647777.8,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,1998,102353862.9,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,1999,101604303.3,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,2000,102552486.8,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,2001,100309387.2,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,2002,100193638.9,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,2003,96977691.52,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,2004,96942259.63,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,2005,96354103.52,Mg CO2 Eq
+FR,France,4,Agriculture,GWP,2006,94830598.15,Mg CO2 Eq
+FR,France,4,Agriculture,N2O,1990,202323.163,Mg
+FR,France,4,Agriculture,N2O,1991,195247.6202,Mg
+FR,France,4,Agriculture,N2O,1992,196981.7833,Mg
+FR,France,4,Agriculture,N2O,1993,183416.5759,Mg
+FR,France,4,Agriculture,N2O,1994,184707.7028,Mg
+FR,France,4,Agriculture,N2O,1995,186329.4744,Mg
+FR,France,4,Agriculture,N2O,1996,188627.1063,Mg
+FR,France,4,Agriculture,N2O,1997,193299.0347,Mg
+FR,France,4,Agriculture,N2O,1998,192939.5839,Mg
+FR,France,4,Agriculture,N2O,1999,190584.5045,Mg
+FR,France,4,Agriculture,N2O,2000,192173.6359,Mg
+FR,France,4,Agriculture,N2O,2001,184054.729,Mg
+FR,France,4,Agriculture,N2O,2002,185273.7954,Mg
+FR,France,4,Agriculture,N2O,2003,177619.8025,Mg
+FR,France,4,Agriculture,N2O,2004,178728.5828,Mg
+FR,France,4,Agriculture,N2O,2005,176790.6976,Mg
+FR,France,4,Agriculture,N2O,2006,171888.4936,Mg
+GB,United Kingdom,4,Agriculture,CH4,1990,1029041.748,Mg
+GB,United Kingdom,4,Agriculture,CH4,1991,1012213.318,Mg
+GB,United Kingdom,4,Agriculture,CH4,1992,1015435.927,Mg
+GB,United Kingdom,4,Agriculture,CH4,1993,1007205.245,Mg
+GB,United Kingdom,4,Agriculture,CH4,1994,1012488.59,Mg
+GB,United Kingdom,4,Agriculture,CH4,1995,1000212.246,Mg
+GB,United Kingdom,4,Agriculture,CH4,1996,1008424.621,Mg
+GB,United Kingdom,4,Agriculture,CH4,1997,996518.8195,Mg
+GB,United Kingdom,4,Agriculture,CH4,1998,994569.5727,Mg
+GB,United Kingdom,4,Agriculture,CH4,1999,992074.6978,Mg
+GB,United Kingdom,4,Agriculture,CH4,2000,959130.1715,Mg
+GB,United Kingdom,4,Agriculture,CH4,2001,903939.8602,Mg
+GB,United Kingdom,4,Agriculture,CH4,2002,894991.9336,Mg
+GB,United Kingdom,4,Agriculture,CH4,2003,897520.476,Mg
+GB,United Kingdom,4,Agriculture,CH4,2004,898938.4901,Mg
+GB,United Kingdom,4,Agriculture,CH4,2005,877859.2148,Mg
+GB,United Kingdom,4,Agriculture,CH4,2006,890300.296,Mg
+GB,United Kingdom,4,Agriculture,CO2,1990,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,1991,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,1992,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,1993,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,1994,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,1995,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,1996,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,1997,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,1998,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,1999,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,2000,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,2001,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,2002,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,2003,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,2004,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,2005,0,Mg
+GB,United Kingdom,4,Agriculture,CO2,2006,0,Mg
+GB,United Kingdom,4,Agriculture,GWP,1990,53890003.48,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,1991,53357274.24,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,1992,51733107.51,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,1993,50990474.53,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,1994,51836311.52,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,1995,51719985.26,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,1996,52046290.52,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,1997,52754719.67,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,1998,51752016.42,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,1999,51031826.71,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,2000,49171336.95,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,2001,46271564.92,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,2002,46607960.37,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,2003,45995527.41,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,2004,45922521.03,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,2005,45083064.48,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,GWP,2006,44117148.38,Mg CO2 Eq
+GB,United Kingdom,4,Agriculture,N2O,1990,104129.4412,Mg
+GB,United Kingdom,4,Agriculture,N2O,1991,103550.9502,Mg
+GB,United Kingdom,4,Agriculture,N2O,1992,98093.39691,Mg
+GB,United Kingdom,4,Agriculture,N2O,1993,96255.36899,Mg
+GB,United Kingdom,4,Agriculture,N2O,1994,98625.97139,Mg
+GB,United Kingdom,4,Agriculture,N2O,1995,99082.34869,Mg
+GB,United Kingdom,4,Agriculture,N2O,1996,99578.62414,Mg
+GB,United Kingdom,4,Agriculture,N2O,1997,102670.4015,Mg
+GB,United Kingdom,4,Agriculture,N2O,1998,99567.92062,Mg
+GB,United Kingdom,4,Agriculture,N2O,1999,97413.73567,Mg
+GB,United Kingdom,4,Agriculture,N2O,2000,93643.88177,Mg
+GB,United Kingdom,4,Agriculture,N2O,2001,88028.47697,Mg
+GB,United Kingdom,4,Agriculture,N2O,2002,89719.77342,Mg
+GB,United Kingdom,4,Agriculture,N2O,2003,87572.89488,Mg
+GB,United Kingdom,4,Agriculture,N2O,2004,87241.33142,Mg
+GB,United Kingdom,4,Agriculture,N2O,2005,85961.35797,Mg
+GB,United Kingdom,4,Agriculture,N2O,2006,82002.71667,Mg
+GR,Greece,4,Agriculture,CH4,1990,164701.9002,Mg
+GR,Greece,4,Agriculture,CH4,1991,162874.5667,Mg
+GR,Greece,4,Agriculture,CH4,1992,161634.6659,Mg
+GR,Greece,4,Agriculture,CH4,1993,162466.0966,Mg
+GR,Greece,4,Agriculture,CH4,1994,163498.7149,Mg
+GR,Greece,4,Agriculture,CH4,1995,164438.1381,Mg
+GR,Greece,4,Agriculture,CH4,1996,165220.4879,Mg
+GR,Greece,4,Agriculture,CH4,1997,165552.7949,Mg
+GR,Greece,4,Agriculture,CH4,1998,165535.3728,Mg
+GR,Greece,4,Agriculture,CH4,1999,165940.9978,Mg
+GR,Greece,4,Agriculture,CH4,2000,166632.1774,Mg
+GR,Greece,4,Agriculture,CH4,2001,166780.3109,Mg
+GR,Greece,4,Agriculture,CH4,2002,166803.1985,Mg
+GR,Greece,4,Agriculture,CH4,2003,166256.0865,Mg
+GR,Greece,4,Agriculture,CH4,2004,166579.8027,Mg
+GR,Greece,4,Agriculture,CH4,2005,163850.9896,Mg
+GR,Greece,4,Agriculture,CH4,2006,163886.165,Mg
+GR,Greece,4,Agriculture,CO2,1990,0,Mg
+GR,Greece,4,Agriculture,CO2,1991,0,Mg
+GR,Greece,4,Agriculture,CO2,1992,0,Mg
+GR,Greece,4,Agriculture,CO2,1993,0,Mg
+GR,Greece,4,Agriculture,CO2,1994,0,Mg
+GR,Greece,4,Agriculture,CO2,1995,0,Mg
+GR,Greece,4,Agriculture,CO2,1996,0,Mg
+GR,Greece,4,Agriculture,CO2,1997,0,Mg
+GR,Greece,4,Agriculture,CO2,1998,0,Mg
+GR,Greece,4,Agriculture,CO2,1999,0,Mg
+GR,Greece,4,Agriculture,CO2,2000,0,Mg
+GR,Greece,4,Agriculture,CO2,2001,0,Mg
+GR,Greece,4,Agriculture,CO2,2002,0,Mg
+GR,Greece,4,Agriculture,CO2,2003,0,Mg
+GR,Greece,4,Agriculture,CO2,2004,0,Mg
+GR,Greece,4,Agriculture,CO2,2005,0,Mg
+GR,Greece,4,Agriculture,CO2,2006,0,Mg
+GR,Greece,4,Agriculture,GWP,1990,13519228.52,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,1991,13306172.13,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,1992,13101488.68,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,1993,12503162.68,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,1994,12736054.6,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,1995,12486237.55,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,1996,12776153.27,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,1997,12486816.97,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,1998,12342243.49,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,1999,12364269.06,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,2000,12357759.76,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,2001,12144280.28,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,2002,12078999.68,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,2003,11998612.52,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,2004,11936712.39,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,2005,11733978,Mg CO2 Eq
+GR,Greece,4,Agriculture,GWP,2006,11644914.97,Mg CO2 Eq
+GR,Greece,4,Agriculture,N2O,1990,32453.18908,Mg
+GR,Greece,4,Agriculture,N2O,1991,31889.6975,Mg
+GR,Greece,4,Agriculture,N2O,1992,31313.42159,Mg
+GR,Greece,4,Agriculture,N2O,1993,29327.01499,Mg
+GR,Greece,4,Agriculture,N2O,1994,30008.3277,Mg
+GR,Greece,4,Agriculture,N2O,1995,29138.82791,Mg
+GR,Greece,4,Agriculture,N2O,1996,30021.04201,Mg
+GR,Greece,4,Agriculture,N2O,1997,29065.18798,Mg
+GR,Greece,4,Agriculture,N2O,1998,28600.00214,Mg
+GR,Greece,4,Agriculture,N2O,1999,28643.57455,Mg
+GR,Greece,4,Agriculture,N2O,2000,28575.75494,Mg
+GR,Greece,4,Agriculture,N2O,2001,27877.07662,Mg
+GR,Greece,4,Agriculture,N2O,2002,27664.94358,Mg
+GR,Greece,4,Agriculture,N2O,2003,27442.69258,Mg
+GR,Greece,4,Agriculture,N2O,2004,27221.08559,Mg
+GR,Greece,4,Agriculture,N2O,2005,26751.95877,Mg
+GR,Greece,4,Agriculture,N2O,2006,26462.27581,Mg
+HU,Hungary,4,Agriculture,CH4,1990,180371.367,Mg
+HU,Hungary,4,Agriculture,CH4,1991,166889.9202,Mg
+HU,Hungary,4,Agriculture,CH4,1992,142897.9948,Mg
+HU,Hungary,4,Agriculture,CH4,1993,123872.2229,Mg
+HU,Hungary,4,Agriculture,CH4,1994,109840.4008,Mg
+HU,Hungary,4,Agriculture,CH4,1995,108484.6004,Mg
+HU,Hungary,4,Agriculture,CH4,1996,108646.3288,Mg
+HU,Hungary,4,Agriculture,CH4,1997,104230.4086,Mg
+HU,Hungary,4,Agriculture,CH4,1998,104986.8438,Mg
+HU,Hungary,4,Agriculture,CH4,1999,105676.872,Mg
+HU,Hungary,4,Agriculture,CH4,2000,104529.4495,Mg
+HU,Hungary,4,Agriculture,CH4,2001,100003.3768,Mg
+HU,Hungary,4,Agriculture,CH4,2002,98124.0759,Mg
+HU,Hungary,4,Agriculture,CH4,2003,97532.4955,Mg
+HU,Hungary,4,Agriculture,CH4,2004,92905.8297,Mg
+HU,Hungary,4,Agriculture,CH4,2005,90193.6864,Mg
+HU,Hungary,4,Agriculture,CH4,2006,86710.11383,Mg
+HU,Hungary,4,Agriculture,CO2,1990,0,Mg
+HU,Hungary,4,Agriculture,CO2,1991,0,Mg
+HU,Hungary,4,Agriculture,CO2,1992,0,Mg
+HU,Hungary,4,Agriculture,CO2,1993,0,Mg
+HU,Hungary,4,Agriculture,CO2,1994,0,Mg
+HU,Hungary,4,Agriculture,CO2,1995,0,Mg
+HU,Hungary,4,Agriculture,CO2,1996,0,Mg
+HU,Hungary,4,Agriculture,CO2,1997,0,Mg
+HU,Hungary,4,Agriculture,CO2,1998,0,Mg
+HU,Hungary,4,Agriculture,CO2,1999,0,Mg
+HU,Hungary,4,Agriculture,CO2,2000,0,Mg
+HU,Hungary,4,Agriculture,CO2,2001,0,Mg
+HU,Hungary,4,Agriculture,CO2,2002,0,Mg
+HU,Hungary,4,Agriculture,CO2,2003,0,Mg
+HU,Hungary,4,Agriculture,CO2,2004,0,Mg
+HU,Hungary,4,Agriculture,CO2,2005,0,Mg
+HU,Hungary,4,Agriculture,CO2,2006,0,Mg
+HU,Hungary,4,Agriculture,GWP,1990,14138796.98,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,1991,11416367.58,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,1992,9843257.871,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,1993,8819058.601,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,1994,8795790.067,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,1995,8486787.478,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,1996,8669328.435,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,1997,8495756.341,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,1998,8984312.74,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,1999,9148135.602,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,2000,8829940.56,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,2001,9022181.813,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,2002,9125956.954,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,2003,8874859.806,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,2004,9054968.474,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,2005,8464478.044,Mg CO2 Eq
+HU,Hungary,4,Agriculture,GWP,2006,8406290.856,Mg CO2 Eq
+HU,Hungary,4,Agriculture,N2O,1990,33390.317,Mg
+HU,Hungary,4,Agriculture,N2O,1991,25521.546,Mg
+HU,Hungary,4,Agriculture,N2O,1992,22072.258,Mg
+HU,Hungary,4,Agriculture,N2O,1993,20057.232,Mg
+HU,Hungary,4,Agriculture,N2O,1994,20932.715,Mg
+HU,Hungary,4,Agriculture,N2O,1995,20027.777,Mg
+HU,Hungary,4,Agriculture,N2O,1996,20605.663,Mg
+HU,Hungary,4,Agriculture,N2O,1997,20344.896,Mg
+HU,Hungary,4,Agriculture,N2O,1998,21869.642,Mg
+HU,Hungary,4,Agriculture,N2O,1999,22351.359,Mg
+HU,Hungary,4,Agriculture,N2O,2000,21402.652,Mg
+HU,Hungary,4,Agriculture,N2O,2001,22329.39,Mg
+HU,Hungary,4,Agriculture,N2O,2002,22791.456,Mg
+HU,Hungary,4,Agriculture,N2O,2003,22021.54,Mg
+HU,Hungary,4,Agriculture,N2O,2004,22915.955,Mg
+HU,Hungary,4,Agriculture,N2O,2005,21194.873,Mg
+HU,Hungary,4,Agriculture,N2O,2006,21243.15634,Mg
+IE,Ireland,4,Agriculture,CH4,1990,562962.4812,Mg
+IE,Ireland,4,Agriculture,CH4,1991,568169.466,Mg
+IE,Ireland,4,Agriculture,CH4,1992,572128.2739,Mg
+IE,Ireland,4,Agriculture,CH4,1993,574303.7862,Mg
+IE,Ireland,4,Agriculture,CH4,1994,571333.8331,Mg
+IE,Ireland,4,Agriculture,CH4,1995,570826.6655,Mg
+IE,Ireland,4,Agriculture,CH4,1996,585245.9469,Mg
+IE,Ireland,4,Agriculture,CH4,1997,598346.0349,Mg
+IE,Ireland,4,Agriculture,CH4,1998,607514.3172,Mg
+IE,Ireland,4,Agriculture,CH4,1999,591160.0494,Mg
+IE,Ireland,4,Agriculture,CH4,2000,562835.2654,Mg
+IE,Ireland,4,Agriculture,CH4,2001,558143.5845,Mg
+IE,Ireland,4,Agriculture,CH4,2002,555119.016,Mg
+IE,Ireland,4,Agriculture,CH4,2003,549479.0119,Mg
+IE,Ireland,4,Agriculture,CH4,2004,548525.7659,Mg
+IE,Ireland,4,Agriculture,CH4,2005,545391.3425,Mg
+IE,Ireland,4,Agriculture,CH4,2006,542157.1774,Mg
+IE,Ireland,4,Agriculture,CO2,1990,0,Mg
+IE,Ireland,4,Agriculture,CO2,1991,0,Mg
+IE,Ireland,4,Agriculture,CO2,1992,0,Mg
+IE,Ireland,4,Agriculture,CO2,1993,0,Mg
+IE,Ireland,4,Agriculture,CO2,1994,0,Mg
+IE,Ireland,4,Agriculture,CO2,1995,0,Mg
+IE,Ireland,4,Agriculture,CO2,1996,0,Mg
+IE,Ireland,4,Agriculture,CO2,1997,0,Mg
+IE,Ireland,4,Agriculture,CO2,1998,0,Mg
+IE,Ireland,4,Agriculture,CO2,1999,0,Mg
+IE,Ireland,4,Agriculture,CO2,2000,0,Mg
+IE,Ireland,4,Agriculture,CO2,2001,0,Mg
+IE,Ireland,4,Agriculture,CO2,2002,0,Mg
+IE,Ireland,4,Agriculture,CO2,2003,0,Mg
+IE,Ireland,4,Agriculture,CO2,2004,0,Mg
+IE,Ireland,4,Agriculture,CO2,2005,0,Mg
+IE,Ireland,4,Agriculture,CO2,2006,0,Mg
+IE,Ireland,4,Agriculture,GWP,1990,19228559.4,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,1991,19350226.28,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,1992,19413306.75,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,1993,19597792.14,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,1994,19733801.74,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,1995,19920062.8,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,1996,20249538.2,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,1997,20362409.95,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,1998,21059579.2,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,1999,20719596.96,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,2000,19639899.75,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,2001,19162514.8,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,2002,18993872.47,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,2003,19063183.73,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,2004,18863942.89,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,2005,18681675.33,Mg CO2 Eq
+IE,Ireland,4,Agriculture,GWP,2006,18447517.25,Mg CO2 Eq
+IE,Ireland,4,Agriculture,N2O,1990,23891.44289,Mg
+IE,Ireland,4,Agriculture,N2O,1991,23931.18548,Mg
+IE,Ireland,4,Agriculture,N2O,1992,23866.49354,Mg
+IE,Ireland,4,Agriculture,N2O,1993,24314.23428,Mg
+IE,Ireland,4,Agriculture,N2O,1994,24954.16532,Mg
+IE,Ireland,4,Agriculture,N2O,1995,25589.36396,Mg
+IE,Ireland,4,Agriculture,N2O,1996,25675.3978,Mg
+IE,Ireland,4,Agriculture,N2O,1997,25152.07488,Mg
+IE,Ireland,4,Agriculture,N2O,1998,26779.93077,Mg
+IE,Ireland,4,Agriculture,N2O,1999,26791.08361,Mg
+IE,Ireland,4,Agriculture,N2O,2000,25226.96509,Mg
+IE,Ireland,4,Agriculture,N2O,2001,24004.83718,Mg
+IE,Ireland,4,Agriculture,N2O,2002,23665.71978,Mg
+IE,Ireland,4,Agriculture,N2O,2003,24271.36928,Mg
+IE,Ireland,4,Agriculture,N2O,2004,23693.23163,Mg
+IE,Ireland,4,Agriculture,N2O,2005,23317.60366,Mg
+IE,Ireland,4,Agriculture,N2O,2006,22781.34364,Mg
+IS,Iceland,4,Agriculture,CH4,1990,14006.96526,Mg
+IS,Iceland,4,Agriculture,CH4,1991,13712.26017,Mg
+IS,Iceland,4,Agriculture,CH4,1992,13294.06854,Mg
+IS,Iceland,4,Agriculture,CH4,1993,13211.21055,Mg
+IS,Iceland,4,Agriculture,CH4,1994,13287.52814,Mg
+IS,Iceland,4,Agriculture,CH4,1995,12881.63258,Mg
+IS,Iceland,4,Agriculture,CH4,1996,13002.60638,Mg
+IS,Iceland,4,Agriculture,CH4,1997,13162.76699,Mg
+IS,Iceland,4,Agriculture,CH4,1998,13318.54213,Mg
+IS,Iceland,4,Agriculture,CH4,1999,13187.25202,Mg
+IS,Iceland,4,Agriculture,CH4,2000,12633.39258,Mg
+IS,Iceland,4,Agriculture,CH4,2001,12594.77267,Mg
+IS,Iceland,4,Agriculture,CH4,2002,12290.48247,Mg
+IS,Iceland,4,Agriculture,CH4,2003,12077.47712,Mg
+IS,Iceland,4,Agriculture,CH4,2004,11891.31347,Mg
+IS,Iceland,4,Agriculture,CH4,2005,12027.67703,Mg
+IS,Iceland,4,Agriculture,CH4,2006,12285.81325,Mg
+IS,Iceland,4,Agriculture,CO2,1990,0,Mg
+IS,Iceland,4,Agriculture,CO2,1991,0,Mg
+IS,Iceland,4,Agriculture,CO2,1992,0,Mg
+IS,Iceland,4,Agriculture,CO2,1993,0,Mg
+IS,Iceland,4,Agriculture,CO2,1994,0,Mg
+IS,Iceland,4,Agriculture,CO2,1995,0,Mg
+IS,Iceland,4,Agriculture,CO2,1996,0,Mg
+IS,Iceland,4,Agriculture,CO2,1997,0,Mg
+IS,Iceland,4,Agriculture,CO2,1998,0,Mg
+IS,Iceland,4,Agriculture,CO2,1999,0,Mg
+IS,Iceland,4,Agriculture,CO2,2000,0,Mg
+IS,Iceland,4,Agriculture,CO2,2001,0,Mg
+IS,Iceland,4,Agriculture,CO2,2002,0,Mg
+IS,Iceland,4,Agriculture,CO2,2003,0,Mg
+IS,Iceland,4,Agriculture,CO2,2004,0,Mg
+IS,Iceland,4,Agriculture,CO2,2005,0,Mg
+IS,Iceland,4,Agriculture,CO2,2006,0,Mg
+IS,Iceland,4,Agriculture,GWP,1990,572868.7644,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,1991,559122.7635,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,1992,533859.6243,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,1993,538550.7609,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,1994,545626.7549,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,1995,524376.6387,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,1996,539096.5954,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,1997,538130.0773,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,1998,542441.6716,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,1999,547497.3143,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,2000,529764.2741,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,2001,526031.2855,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,2002,502545.3191,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,2003,486130.0752,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,2004,475823.0864,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,2005,478795.449,Mg CO2 Eq
+IS,Iceland,4,Agriculture,GWP,2006,511724.7279,Mg CO2 Eq
+IS,Iceland,4,Agriculture,N2O,1990,899.104819,Mg
+IS,Iceland,4,Agriculture,N2O,1991,874.726774,Mg
+IS,Iceland,4,Agriculture,N2O,1992,821.561887,Mg
+IS,Iceland,4,Agriculture,N2O,1993,842.3075462,Mg
+IS,Iceland,4,Agriculture,N2O,1994,859.963432,Mg
+IS,Iceland,4,Agriculture,N2O,1995,818.910821,Mg
+IS,Iceland,4,Agriculture,N2O,1996,858.199553,Mg
+IS,Iceland,4,Agriculture,N2O,1997,844.232163,Mg
+IS,Iceland,4,Agriculture,N2O,1998,847.588022,Mg
+IS,Iceland,4,Agriculture,N2O,1999,872.790393,Mg
+IS,Iceland,4,Agriculture,N2O,2000,853.106548,Mg
+IS,Iceland,4,Agriculture,N2O,2001,843.680837,Mg
+IS,Iceland,4,Agriculture,N2O,2002,788.532862,Mg
+IS,Iceland,4,Agriculture,N2O,2003,750.009857,Mg
+IS,Iceland,4,Agriculture,N2O,2004,729.372592,Mg
+IS,Iceland,4,Agriculture,N2O,2005,729.723327,Mg
+IS,Iceland,4,Agriculture,N2O,2006,818.46016,Mg
+IT,Italy,4,Agriculture,CH4,1990,819798.6795,Mg
+IT,Italy,4,Agriculture,CH4,1991,829390.1678,Mg
+IT,Italy,4,Agriculture,CH4,1992,807994.5294,Mg
+IT,Italy,4,Agriculture,CH4,1993,805179.1015,Mg
+IT,Italy,4,Agriculture,CH4,1994,807068.8518,Mg
+IT,Italy,4,Agriculture,CH4,1995,820145.0313,Mg
+IT,Italy,4,Agriculture,CH4,1996,821623.1572,Mg
+IT,Italy,4,Agriculture,CH4,1997,823136.1817,Mg
+IT,Italy,4,Agriculture,CH4,1998,816909.9631,Mg
+IT,Italy,4,Agriculture,CH4,1999,823215.3008,Mg
+IT,Italy,4,Agriculture,CH4,2000,801769.6601,Mg
+IT,Italy,4,Agriculture,CH4,2001,765510.402,Mg
+IT,Italy,4,Agriculture,CH4,2002,748857.0296,Mg
+IT,Italy,4,Agriculture,CH4,2003,751455.4569,Mg
+IT,Italy,4,Agriculture,CH4,2004,740146.5759,Mg
+IT,Italy,4,Agriculture,CH4,2005,737011.8984,Mg
+IT,Italy,4,Agriculture,CH4,2006,720822.4754,Mg
+IT,Italy,4,Agriculture,CO2,1990,0,Mg
+IT,Italy,4,Agriculture,CO2,1991,0,Mg
+IT,Italy,4,Agriculture,CO2,1992,0,Mg
+IT,Italy,4,Agriculture,CO2,1993,0,Mg
+IT,Italy,4,Agriculture,CO2,1994,0,Mg
+IT,Italy,4,Agriculture,CO2,1995,0,Mg
+IT,Italy,4,Agriculture,CO2,1996,0,Mg
+IT,Italy,4,Agriculture,CO2,1997,0,Mg
+IT,Italy,4,Agriculture,CO2,1998,0,Mg
+IT,Italy,4,Agriculture,CO2,1999,0,Mg
+IT,Italy,4,Agriculture,CO2,2000,0,Mg
+IT,Italy,4,Agriculture,CO2,2001,0,Mg
+IT,Italy,4,Agriculture,CO2,2002,0,Mg
+IT,Italy,4,Agriculture,CO2,2003,0,Mg
+IT,Italy,4,Agriculture,CO2,2004,0,Mg
+IT,Italy,4,Agriculture,CO2,2005,0,Mg
+IT,Italy,4,Agriculture,CO2,2006,0,Mg
+IT,Italy,4,Agriculture,GWP,1990,40578050.5,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,1991,41373020.21,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,1992,40863919.76,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,1993,41164215.5,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,1994,40641969.69,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,1995,40349948.6,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,1996,40097771.02,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,1997,41150919.02,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,1998,40419015.59,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,1999,40795562.73,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,2000,39940252.61,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,2001,38954226.45,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,2002,38250200.22,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,2003,38099660.44,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,2004,37895357.9,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,2005,37238865.67,Mg CO2 Eq
+IT,Italy,4,Agriculture,GWP,2006,36642133.71,Mg CO2 Eq
+IT,Italy,4,Agriculture,N2O,1990,75362.18784,Mg
+IT,Italy,4,Agriculture,N2O,1991,77276.86027,Mg
+IT,Italy,4,Agriculture,N2O,1992,77083.98273,Mg
+IT,Italy,4,Agriculture,N2O,1993,78243.4012,Mg
+IT,Italy,4,Agriculture,N2O,1994,76430.72194,Mg
+IT,Italy,4,Agriculture,N2O,1995,74602.91271,Mg
+IT,Italy,4,Agriculture,N2O,1996,73689.30554,Mg
+IT,Italy,4,Agriculture,N2O,1997,76984.06195,Mg
+IT,Italy,4,Agriculture,N2O,1998,75044.85923,Mg
+IT,Italy,4,Agriculture,N2O,1999,75832.39167,Mg
+IT,Italy,4,Agriculture,N2O,2000,74526.09596,Mg
+IT,Italy,4,Agriculture,N2O,2001,73801.63875,Mg
+IT,Italy,4,Agriculture,N2O,2002,72658.71807,Mg
+IT,Italy,4,Agriculture,N2O,2003,71997.08336,Mg
+IT,Italy,4,Agriculture,N2O,2004,72104.12841,Mg
+IT,Italy,4,Agriculture,N2O,2005,70198.76066,Mg
+IT,Italy,4,Agriculture,N2O,2006,69370.52169,Mg
+LI,Liechtenstein,4,Agriculture,CH4,1990,556.9968049,Mg
+LI,Liechtenstein,4,Agriculture,CH4,1991,551.4538125,Mg
+LI,Liechtenstein,4,Agriculture,CH4,1992,544.3652168,Mg
+LI,Liechtenstein,4,Agriculture,CH4,1993,510.1317117,Mg
+LI,Liechtenstein,4,Agriculture,CH4,1994,515.5530156,Mg
+LI,Liechtenstein,4,Agriculture,CH4,1995,521.4778106,Mg
+LI,Liechtenstein,4,Agriculture,CH4,1996,522.9593629,Mg
+LI,Liechtenstein,4,Agriculture,CH4,1997,514.6626433,Mg
+LI,Liechtenstein,4,Agriculture,CH4,1998,515.6547909,Mg
+LI,Liechtenstein,4,Agriculture,CH4,1999,506.0740656,Mg
+LI,Liechtenstein,4,Agriculture,CH4,2000,485.5312922,Mg
+LI,Liechtenstein,4,Agriculture,CH4,2001,527.9346703,Mg
+LI,Liechtenstein,4,Agriculture,CH4,2002,525.9264948,Mg
+LI,Liechtenstein,4,Agriculture,CH4,2003,532.605364,Mg
+LI,Liechtenstein,4,Agriculture,CH4,2004,536.3287792,Mg
+LI,Liechtenstein,4,Agriculture,CH4,2005,548.059408,Mg
+LI,Liechtenstein,4,Agriculture,CH4,2006,569.6342024,Mg
+LI,Liechtenstein,4,Agriculture,CO2,1990,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,1991,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,1992,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,1993,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,1994,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,1995,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,1996,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,1997,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,1998,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,1999,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,2000,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,2001,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,2002,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,2003,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,2004,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,2005,0,Mg
+LI,Liechtenstein,4,Agriculture,CO2,2006,0,Mg
+LI,Liechtenstein,4,Agriculture,GWP,1990,22522.84844,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,1991,22482.96525,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,1992,22278.18476,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,1993,21100.86791,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,1994,21145.85985,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,1995,21317.54072,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,1996,21152.20993,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,1997,20950.89355,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,1998,20770.75176,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,1999,20521.56594,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,2000,19826.00611,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,2001,21000.15809,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,2002,20856.06801,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,2003,21087.3742,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,2004,21238.83916,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,2005,21601.53449,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,GWP,2006,22329.53324,Mg CO2 Eq
+LI,Liechtenstein,4,Agriculture,N2O,1990,34.92230819,Mg
+LI,Liechtenstein,4,Agriculture,N2O,1991,35.16914576,Mg
+LI,Liechtenstein,4,Agriculture,N2O,1992,34.98875873,Mg
+LI,Liechtenstein,4,Agriculture,N2O,1993,33.51000635,Mg
+LI,Liechtenstein,4,Agriculture,N2O,1994,33.28789202,Mg
+LI,Liechtenstein,4,Agriculture,N2O,1995,33.44034419,Mg
+LI,Liechtenstein,4,Agriculture,N2O,1996,32.80665584,Mg
+LI,Liechtenstein,4,Agriculture,N2O,1997,32.71928401,Mg
+LI,Liechtenstein,4,Agriculture,N2O,1998,32.07097145,Mg
+LI,Liechtenstein,4,Agriculture,N2O,1999,31.9161631,Mg
+LI,Liechtenstein,4,Agriculture,N2O,2000,31.06402896,Mg
+LI,Liechtenstein,4,Agriculture,N2O,2001,31.97912909,Mg
+LI,Liechtenstein,4,Agriculture,N2O,2002,31.65036005,Mg
+LI,Liechtenstein,4,Agriculture,N2O,2003,31.94406954,Mg
+LI,Liechtenstein,4,Agriculture,N2O,2004,32.18043482,Mg
+LI,Liechtenstein,4,Agriculture,N2O,2005,32.55576428,Mg
+LI,Liechtenstein,4,Agriculture,N2O,2006,33.442629,Mg
+LT,Lithuania,4,Agriculture,CH4,1990,168803.6133,Mg
+LT,Lithuania,4,Agriculture,CH4,1991,157653.0994,Mg
+LT,Lithuania,4,Agriculture,CH4,1992,117431.4383,Mg
+LT,Lithuania,4,Agriculture,CH4,1993,98538.7235,Mg
+LT,Lithuania,4,Agriculture,CH4,1994,85715.08784,Mg
+LT,Lithuania,4,Agriculture,CH4,1995,81399.51989,Mg
+LT,Lithuania,4,Agriculture,CH4,1996,81244.05928,Mg
+LT,Lithuania,4,Agriculture,CH4,1997,80335.48239,Mg
+LT,Lithuania,4,Agriculture,CH4,1998,75339.92319,Mg
+LT,Lithuania,4,Agriculture,CH4,1999,70319.80065,Mg
+LT,Lithuania,4,Agriculture,CH4,2000,62789.36256,Mg
+LT,Lithuania,4,Agriculture,CH4,2001,65180.12855,Mg
+LT,Lithuania,4,Agriculture,CH4,2002,67261.19966,Mg
+LT,Lithuania,4,Agriculture,CH4,2003,69617.67523,Mg
+LT,Lithuania,4,Agriculture,CH4,2004,68581.46098,Mg
+LT,Lithuania,4,Agriculture,CH4,2005,68416.51318,Mg
+LT,Lithuania,4,Agriculture,CH4,2006,70814.77799,Mg
+LT,Lithuania,4,Agriculture,CO2,1990,0,Mg
+LT,Lithuania,4,Agriculture,CO2,1991,0,Mg
+LT,Lithuania,4,Agriculture,CO2,1992,0,Mg
+LT,Lithuania,4,Agriculture,CO2,1993,0,Mg
+LT,Lithuania,4,Agriculture,CO2,1994,0,Mg
+LT,Lithuania,4,Agriculture,CO2,1995,0,Mg
+LT,Lithuania,4,Agriculture,CO2,1996,0,Mg
+LT,Lithuania,4,Agriculture,CO2,1997,0,Mg
+LT,Lithuania,4,Agriculture,CO2,1998,0,Mg
+LT,Lithuania,4,Agriculture,CO2,1999,0,Mg
+LT,Lithuania,4,Agriculture,CO2,2000,0,Mg
+LT,Lithuania,4,Agriculture,CO2,2001,0,Mg
+LT,Lithuania,4,Agriculture,CO2,2002,0,Mg
+LT,Lithuania,4,Agriculture,CO2,2003,0,Mg
+LT,Lithuania,4,Agriculture,CO2,2004,0,Mg
+LT,Lithuania,4,Agriculture,CO2,2005,0,Mg
+LT,Lithuania,4,Agriculture,CO2,2006,0,Mg
+LT,Lithuania,4,Agriculture,GWP,1990,9463396.741,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,1991,8649517.228,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,1992,5948732.723,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,1993,4892974.771,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,1994,4250654.828,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,1995,4077664.971,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,1996,4436226.915,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,1997,4430034.122,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,1998,4237621.366,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,1999,4116247.722,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,2000,3840949.929,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,2001,3967114.806,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,2002,4170456.292,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,2003,4323025.014,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,2004,4296582.586,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,2005,4045042.446,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,GWP,2006,4284326.985,Mg CO2 Eq
+LT,Lithuania,4,Agriculture,N2O,1990,19092.00278,Mg
+LT,Lithuania,4,Agriculture,N2O,1991,17221.94239,Mg
+LT,Lithuania,4,Agriculture,N2O,1992,11234.42748,Mg
+LT,Lithuania,4,Agriculture,N2O,1993,9108.585735,Mg
+LT,Lithuania,4,Agriculture,N2O,1994,7905.283816,Mg
+LT,Lithuania,4,Agriculture,N2O,1995,7639.596947,Mg
+LT,Lithuania,4,Agriculture,N2O,1996,8806.77958,Mg
+LT,Lithuania,4,Agriculture,N2O,1997,8848.351585,Mg
+LT,Lithuania,4,Agriculture,N2O,1998,8566.074125,Mg
+LT,Lithuania,4,Agriculture,N2O,1999,8514.619058,Mg
+LT,Lithuania,4,Agriculture,N2O,2000,8136.688115,Mg
+LT,Lithuania,4,Agriculture,N2O,2001,8381.716473,Mg
+LT,Lithuania,4,Agriculture,N2O,2002,8896.680964,Mg
+LT,Lithuania,4,Agriculture,N2O,2003,9229.205918,Mg
+LT,Lithuania,4,Agriculture,N2O,2004,9214.10292,Mg
+LT,Lithuania,4,Agriculture,N2O,2005,8413.856996,Mg
+LT,Lithuania,4,Agriculture,N2O,2006,9023.279507,Mg
+LU,Luxembourg,4,Agriculture,CH4,1990,16975.94196,Mg
+LU,Luxembourg,4,Agriculture,CH4,1991,17261.487,Mg
+LU,Luxembourg,4,Agriculture,CH4,1992,16763.15835,Mg
+LU,Luxembourg,4,Agriculture,CH4,1993,17003.97503,Mg
+LU,Luxembourg,4,Agriculture,CH4,1994,16884.38521,Mg
+LU,Luxembourg,4,Agriculture,CH4,1995,17443.81985,Mg
+LU,Luxembourg,4,Agriculture,CH4,1996,17617.44567,Mg
+LU,Luxembourg,4,Agriculture,CH4,1997,17490.85033,Mg
+LU,Luxembourg,4,Agriculture,CH4,1998,17530.967,Mg
+LU,Luxembourg,4,Agriculture,CH4,1999,18000.58397,Mg
+LU,Luxembourg,4,Agriculture,CH4,2000,17602.83079,Mg
+LU,Luxembourg,4,Agriculture,CH4,2001,17565.22464,Mg
+LU,Luxembourg,4,Agriculture,CH4,2002,17093.78346,Mg
+LU,Luxembourg,4,Agriculture,CH4,2003,16594.06135,Mg
+LU,Luxembourg,4,Agriculture,CH4,2004,16352.76773,Mg
+LU,Luxembourg,4,Agriculture,CH4,2005,16519.91055,Mg
+LU,Luxembourg,4,Agriculture,CH4,2006,16318.15418,Mg
+LU,Luxembourg,4,Agriculture,CO2,1990,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,1991,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,1992,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,1993,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,1994,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,1995,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,1996,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,1997,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,1998,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,1999,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,2000,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,2001,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,2002,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,2003,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,2004,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,2005,0,Mg
+LU,Luxembourg,4,Agriculture,CO2,2006,0,Mg
+LU,Luxembourg,4,Agriculture,GWP,1990,775943.8533,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,1991,781729.054,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,1992,785779.5933,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,1993,777291.1094,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,1994,755309.4183,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,1995,778761.0427,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,1996,789167.8032,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,1997,786734.6007,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,1998,784282.611,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,1999,785504.8243,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,2000,782404.831,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,2001,747399.9719,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,2002,737472.9231,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,2003,686699.5115,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,2004,732613.7389,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,2005,699922.5008,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,GWP,2006,694857.7025,Mg CO2 Eq
+LU,Luxembourg,4,Agriculture,N2O,1990,1353.061523,Mg
+LU,Luxembourg,4,Agriculture,N2O,1991,1352.380087,Mg
+LU,Luxembourg,4,Agriculture,N2O,1992,1399.20409,Mg
+LU,Luxembourg,4,Agriculture,N2O,1993,1355.508496,Mg
+LU,Luxembourg,4,Agriculture,N2O,1994,1292.701061,Mg
+LU,Luxembourg,4,Agriculture,N2O,1995,1330.454277,Mg
+LU,Luxembourg,4,Agriculture,N2O,1996,1352.262723,Mg
+LU,Luxembourg,4,Agriculture,N2O,1997,1352.989496,Mg
+LU,Luxembourg,4,Agriculture,N2O,1998,1342.362271,Mg
+LU,Luxembourg,4,Agriculture,N2O,1999,1314.492132,Mg
+LU,Luxembourg,4,Agriculture,N2O,2000,1331.436724,Mg
+LU,Luxembourg,4,Agriculture,N2O,2001,1221.065337,Mg
+LU,Luxembourg,4,Agriculture,N2O,2002,1220.978937,Mg
+LU,Luxembourg,4,Agriculture,N2O,2003,1091.045881,Mg
+LU,Luxembourg,4,Agriculture,N2O,2004,1255.501989,Mg
+LU,Luxembourg,4,Agriculture,N2O,2005,1138.723804,Mg
+LU,Luxembourg,4,Agriculture,N2O,2006,1136.053112,Mg
+LV,Latvia,4,Agriculture,CH4,1990,111273.888,Mg
+LV,Latvia,4,Agriculture,CH4,1991,107105.99,Mg
+LV,Latvia,4,Agriculture,CH4,1992,88771.934,Mg
+LV,Latvia,4,Agriculture,CH4,1993,54598.452,Mg
+LV,Latvia,4,Agriculture,CH4,1994,45788.355,Mg
+LV,Latvia,4,Agriculture,CH4,1995,44632.891,Mg
+LV,Latvia,4,Agriculture,CH4,1996,41786.5476,Mg
+LV,Latvia,4,Agriculture,CH4,1997,39190.536,Mg
+LV,Latvia,4,Agriculture,CH4,1998,35857.872,Mg
+LV,Latvia,4,Agriculture,CH4,1999,31353.188,Mg
+LV,Latvia,4,Agriculture,CH4,2000,30603.4508,Mg
+LV,Latvia,4,Agriculture,CH4,2001,32069.328,Mg
+LV,Latvia,4,Agriculture,CH4,2002,32306.536,Mg
+LV,Latvia,4,Agriculture,CH4,2003,31205.644,Mg
+LV,Latvia,4,Agriculture,CH4,2004,30697.709,Mg
+LV,Latvia,4,Agriculture,CH4,2005,31471.7014,Mg
+LV,Latvia,4,Agriculture,CH4,2006,30856.634,Mg
+LV,Latvia,4,Agriculture,CO2,1990,0,Mg
+LV,Latvia,4,Agriculture,CO2,1991,0,Mg
+LV,Latvia,4,Agriculture,CO2,1992,0,Mg
+LV,Latvia,4,Agriculture,CO2,1993,0,Mg
+LV,Latvia,4,Agriculture,CO2,1994,0,Mg
+LV,Latvia,4,Agriculture,CO2,1995,0,Mg
+LV,Latvia,4,Agriculture,CO2,1996,0,Mg
+LV,Latvia,4,Agriculture,CO2,1997,0,Mg
+LV,Latvia,4,Agriculture,CO2,1998,0,Mg
+LV,Latvia,4,Agriculture,CO2,1999,0,Mg
+LV,Latvia,4,Agriculture,CO2,2000,0,Mg
+LV,Latvia,4,Agriculture,CO2,2001,0,Mg
+LV,Latvia,4,Agriculture,CO2,2002,0,Mg
+LV,Latvia,4,Agriculture,CO2,2003,0,Mg
+LV,Latvia,4,Agriculture,CO2,2004,0,Mg
+LV,Latvia,4,Agriculture,CO2,2005,0,Mg
+LV,Latvia,4,Agriculture,CO2,2006,0,Mg
+LV,Latvia,4,Agriculture,GWP,1990,5930505.431,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,1991,5578353.678,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,1992,4428698.485,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,1993,2916702.011,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,1994,2417334.399,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,1995,2115080.311,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,1996,2084337.545,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,1997,2038175.344,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,1998,1912931.889,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,1999,1716996.56,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,2000,1714033.714,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,2001,1855327.089,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,2002,1851458.046,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,2003,1890347.078,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,2004,1855692.9,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,2005,1980851.863,Mg CO2 Eq
+LV,Latvia,4,Agriculture,GWP,2006,1998828.284,Mg CO2 Eq
+LV,Latvia,4,Agriculture,N2O,1990,11592.75414,Mg
+LV,Latvia,4,Agriculture,N2O,1991,10739.12222,Mg
+LV,Latvia,4,Agriculture,N2O,1992,8272.541519,Mg
+LV,Latvia,4,Agriculture,N2O,1993,5710.11135,Mg
+LV,Latvia,4,Agriculture,N2O,1994,4696.06111,Mg
+LV,Latvia,4,Agriculture,N2O,1995,3799.321289,Mg
+LV,Latvia,4,Agriculture,N2O,1996,3892.967888,Mg
+LV,Latvia,4,Agriculture,N2O,1997,3919.916414,Mg
+LV,Latvia,4,Agriculture,N2O,1998,3741.666378,Mg
+LV,Latvia,4,Agriculture,N2O,1999,3414.772942,Mg
+LV,Latvia,4,Agriculture,N2O,2000,3456.004024,Mg
+LV,Latvia,4,Agriculture,N2O,2001,3812.487744,Mg
+LV,Latvia,4,Agriculture,N2O,2002,3783.938031,Mg
+LV,Latvia,4,Agriculture,N2O,2003,3983.963078,Mg
+LV,Latvia,4,Agriculture,N2O,2004,3906.583905,Mg
+LV,Latvia,4,Agriculture,N2O,2005,4257.890753,Mg
+LV,Latvia,4,Agriculture,N2O,2006,4357.545064,Mg
+MT,Malta,4,Agriculture,CH4,1990,2971.30468,Mg
+MT,Malta,4,Agriculture,CH4,1991,2971.30468,Mg
+MT,Malta,4,Agriculture,CH4,1992,4847.8028,Mg
+MT,Malta,4,Agriculture,CH4,1993,4777.0572,Mg
+MT,Malta,4,Agriculture,CH4,1994,4547.1288,Mg
+MT,Malta,4,Agriculture,CH4,1995,5124.96106,Mg
+MT,Malta,4,Agriculture,CH4,1996,4690.69288,Mg
+MT,Malta,4,Agriculture,CH4,1997,4656.97266,Mg
+MT,Malta,4,Agriculture,CH4,1998,3321.54824,Mg
+MT,Malta,4,Agriculture,CH4,1999,3496.717,Mg
+MT,Malta,4,Agriculture,CH4,2000,3523.309,Mg
+MT,Malta,4,Agriculture,CH4,2001,3733.537602,Mg
+MT,Malta,4,Agriculture,CH4,2002,3645.58462,Mg
+MT,Malta,4,Agriculture,CH4,2003,3519.24184,Mg
+MT,Malta,4,Agriculture,CH4,2004,3698.2639,Mg
+MT,Malta,4,Agriculture,CH4,2005,3698.538813,Mg
+MT,Malta,4,Agriculture,CH4,2006,3464.783973,Mg
+MT,Malta,4,Agriculture,CO2,1990,0,Mg
+MT,Malta,4,Agriculture,CO2,1991,0,Mg
+MT,Malta,4,Agriculture,CO2,1992,0,Mg
+MT,Malta,4,Agriculture,CO2,1993,0,Mg
+MT,Malta,4,Agriculture,CO2,1994,0,Mg
+MT,Malta,4,Agriculture,CO2,1995,0,Mg
+MT,Malta,4,Agriculture,CO2,1996,0,Mg
+MT,Malta,4,Agriculture,CO2,1997,0,Mg
+MT,Malta,4,Agriculture,CO2,1998,0,Mg
+MT,Malta,4,Agriculture,CO2,1999,0,Mg
+MT,Malta,4,Agriculture,CO2,2000,0,Mg
+MT,Malta,4,Agriculture,CO2,2001,0,Mg
+MT,Malta,4,Agriculture,CO2,2002,0,Mg
+MT,Malta,4,Agriculture,CO2,2003,0,Mg
+MT,Malta,4,Agriculture,CO2,2004,0,Mg
+MT,Malta,4,Agriculture,CO2,2005,0,Mg
+MT,Malta,4,Agriculture,CO2,2006,0,Mg
+MT,Malta,4,Agriculture,GWP,1990,65255.1835,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,1991,65255.1835,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,1992,106709.2988,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,1993,104515.9112,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,1994,99657.5928,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,1995,112796.5657,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,1996,101424.2201,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,1997,101028.2811,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,1998,75262.92959,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,1999,76187.14075,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,2000,77878.06444,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,2001,81432.02314,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,2002,79469.56337,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,2003,75771.95354,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,2004,79808.87528,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,2005,80911.57276,Mg CO2 Eq
+MT,Malta,4,Agriculture,GWP,2006,74947.96735,Mg CO2 Eq
+MT,Malta,4,Agriculture,N2O,1990,9.218662,Mg
+MT,Malta,4,Agriculture,N2O,1991,9.218662,Mg
+MT,Malta,4,Agriculture,N2O,1992,15.824,Mg
+MT,Malta,4,Agriculture,N2O,1993,13.541,Mg
+MT,Malta,4,Agriculture,N2O,1994,13.4448,Mg
+MT,Malta,4,Agriculture,N2O,1995,16.68510775,Mg
+MT,Malta,4,Agriculture,N2O,1996,9.418289,Mg
+MT,Malta,4,Agriculture,N2O,1997,10.4253395,Mg
+MT,Malta,4,Agriculture,N2O,1998,17.77553725,Mg
+MT,Malta,4,Agriculture,N2O,1999,8.89059275,Mg
+MT,Malta,4,Agriculture,N2O,2000,12.54379175,Mg
+MT,Malta,4,Agriculture,N2O,2001,9.76688225,Mg
+MT,Malta,4,Agriculture,N2O,2002,9.3944721,Mg
+MT,Malta,4,Agriculture,N2O,2003,6.0254029,Mg
+MT,Malta,4,Agriculture,N2O,2004,6.92043025,Mg
+MT,Malta,4,Agriculture,N2O,2005,10.45889575,Mg
+MT,Malta,4,Agriculture,N2O,2006,7.05646425,Mg
+NL,Netherlands,4,Agriculture,CH4,1990,499570.0068,Mg
+NL,Netherlands,4,Agriculture,CH4,1991,505545.8557,Mg
+NL,Netherlands,4,Agriculture,CH4,1992,494295.9562,Mg
+NL,Netherlands,4,Agriculture,CH4,1993,496557.7705,Mg
+NL,Netherlands,4,Agriculture,CH4,1994,480056.157,Mg
+NL,Netherlands,4,Agriculture,CH4,1995,492731.1169,Mg
+NL,Netherlands,4,Agriculture,CH4,1996,475881.2481,Mg
+NL,Netherlands,4,Agriculture,CH4,1997,470563.262,Mg
+NL,Netherlands,4,Agriculture,CH4,1998,450952.8377,Mg
+NL,Netherlands,4,Agriculture,CH4,1999,447480.2915,Mg
+NL,Netherlands,4,Agriculture,CH4,2000,432430.1853,Mg
+NL,Netherlands,4,Agriculture,CH4,2001,437254.8453,Mg
+NL,Netherlands,4,Agriculture,CH4,2002,414793.0686,Mg
+NL,Netherlands,4,Agriculture,CH4,2003,417614.0191,Mg
+NL,Netherlands,4,Agriculture,CH4,2004,419679.2935,Mg
+NL,Netherlands,4,Agriculture,CH4,2005,419141.8541,Mg
+NL,Netherlands,4,Agriculture,CH4,2006,417531.171,Mg
+NL,Netherlands,4,Agriculture,CO2,1990,0,Mg
+NL,Netherlands,4,Agriculture,CO2,1991,0,Mg
+NL,Netherlands,4,Agriculture,CO2,1992,0,Mg
+NL,Netherlands,4,Agriculture,CO2,1993,0,Mg
+NL,Netherlands,4,Agriculture,CO2,1994,0,Mg
+NL,Netherlands,4,Agriculture,CO2,1995,0,Mg
+NL,Netherlands,4,Agriculture,CO2,1996,0,Mg
+NL,Netherlands,4,Agriculture,CO2,1997,0,Mg
+NL,Netherlands,4,Agriculture,CO2,1998,0,Mg
+NL,Netherlands,4,Agriculture,CO2,1999,0,Mg
+NL,Netherlands,4,Agriculture,CO2,2000,0,Mg
+NL,Netherlands,4,Agriculture,CO2,2001,0,Mg
+NL,Netherlands,4,Agriculture,CO2,2002,0,Mg
+NL,Netherlands,4,Agriculture,CO2,2003,0,Mg
+NL,Netherlands,4,Agriculture,CO2,2004,0,Mg
+NL,Netherlands,4,Agriculture,CO2,2005,0,Mg
+NL,Netherlands,4,Agriculture,CO2,2006,0,Mg
+NL,Netherlands,4,Agriculture,GWP,1990,22097773.18,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,1991,22497503.35,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,1992,22888416.32,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,1993,23128925.52,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,1994,22346633.86,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,1995,23138688.55,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,1996,22576055.87,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,1997,22335078.5,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,1998,21671726.17,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,1999,21183586.36,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,2000,19923123.97,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,2001,19589291.39,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,2002,18560837.51,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,2003,18290870.57,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,2004,18325924.31,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,2005,18281047.43,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,GWP,2006,18183472.42,Mg CO2 Eq
+NL,Netherlands,4,Agriculture,N2O,1990,37441.30012,Mg
+NL,Netherlands,4,Agriculture,N2O,1991,38325.9367,Mg
+NL,Netherlands,4,Agriculture,N2O,1992,40349.03627,Mg
+NL,Netherlands,4,Agriculture,N2O,1993,40971.6527,Mg
+NL,Netherlands,4,Agriculture,N2O,1994,39565.98246,Mg
+NL,Netherlands,4,Agriculture,N2O,1995,41262.37127,Mg
+NL,Netherlands,4,Agriculture,N2O,1996,40588.86987,Mg
+NL,Netherlands,4,Agriculture,N2O,1997,40171.7742,Mg
+NL,Netherlands,4,Agriculture,N2O,1998,39360.37605,Mg
+NL,Netherlands,4,Agriculture,N2O,1999,38020.96852,Mg
+NL,Netherlands,4,Agriculture,N2O,2000,34974.48414,Mg
+NL,Netherlands,4,Agriculture,N2O,2001,33570.77303,Mg
+NL,Netherlands,4,Agriculture,N2O,2002,31774.78409,Mg
+NL,Netherlands,4,Agriculture,N2O,2003,30712.82634,Mg
+NL,Netherlands,4,Agriculture,N2O,2004,30685.99726,Mg
+NL,Netherlands,4,Agriculture,N2O,2005,30577.64029,Mg
+NL,Netherlands,4,Agriculture,N2O,2006,30371.993,Mg
+NO,Norway,4,Agriculture,CH4,1990,108006.0498,Mg
+NO,Norway,4,Agriculture,CH4,1991,109486.2934,Mg
+NO,Norway,4,Agriculture,CH4,1992,109242.719,Mg
+NO,Norway,4,Agriculture,CH4,1993,108033.8677,Mg
+NO,Norway,4,Agriculture,CH4,1994,109680.8212,Mg
+NO,Norway,4,Agriculture,CH4,1995,111011.761,Mg
+NO,Norway,4,Agriculture,CH4,1996,111603.5583,Mg
+NO,Norway,4,Agriculture,CH4,1997,110727.3661,Mg
+NO,Norway,4,Agriculture,CH4,1998,111834.2813,Mg
+NO,Norway,4,Agriculture,CH4,1999,111363.686,Mg
+NO,Norway,4,Agriculture,CH4,2000,109907.6752,Mg
+NO,Norway,4,Agriculture,CH4,2001,107779.8397,Mg
+NO,Norway,4,Agriculture,CH4,2002,105293.2917,Mg
+NO,Norway,4,Agriculture,CH4,2003,107698.3897,Mg
+NO,Norway,4,Agriculture,CH4,2004,105513.0833,Mg
+NO,Norway,4,Agriculture,CH4,2005,106245.8732,Mg
+NO,Norway,4,Agriculture,CH4,2006,102367.6639,Mg
+NO,Norway,4,Agriculture,CO2,1990,0,Mg
+NO,Norway,4,Agriculture,CO2,1991,0,Mg
+NO,Norway,4,Agriculture,CO2,1992,0,Mg
+NO,Norway,4,Agriculture,CO2,1993,0,Mg
+NO,Norway,4,Agriculture,CO2,1994,0,Mg
+NO,Norway,4,Agriculture,CO2,1995,0,Mg
+NO,Norway,4,Agriculture,CO2,1996,0,Mg
+NO,Norway,4,Agriculture,CO2,1997,0,Mg
+NO,Norway,4,Agriculture,CO2,1998,0,Mg
+NO,Norway,4,Agriculture,CO2,1999,0,Mg
+NO,Norway,4,Agriculture,CO2,2000,0,Mg
+NO,Norway,4,Agriculture,CO2,2001,0,Mg
+NO,Norway,4,Agriculture,CO2,2002,0,Mg
+NO,Norway,4,Agriculture,CO2,2003,0,Mg
+NO,Norway,4,Agriculture,CO2,2004,0,Mg
+NO,Norway,4,Agriculture,CO2,2005,0,Mg
+NO,Norway,4,Agriculture,CO2,2006,0,Mg
+NO,Norway,4,Agriculture,GWP,1990,4444572.748,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,1991,4489332.425,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,1992,4469381.543,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,1993,4436048.995,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,1994,4470395.029,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,1995,4534230.464,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,1996,4565548.358,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,1997,4547165.956,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,1998,4570615.624,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,1999,4503050.852,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,2000,4489091.183,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,2001,4370163.326,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,2002,4295771.77,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,2003,4364273.228,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,2004,4321006.029,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,2005,4343531.44,Mg CO2 Eq
+NO,Norway,4,Agriculture,GWP,2006,4208985.479,Mg CO2 Eq
+NO,Norway,4,Agriculture,N2O,1990,7020.792587,Mg
+NO,Norway,4,Agriculture,N2O,1991,7064.904077,Mg
+NO,Norway,4,Agriculture,N2O,1992,7017.046592,Mg
+NO,Norway,4,Agriculture,N2O,1993,6991.412173,Mg
+NO,Norway,4,Agriculture,N2O,1994,6990.638013,Mg
+NO,Norway,4,Agriculture,N2O,1995,7106.398331,Mg
+NO,Norway,4,Agriculture,N2O,1996,7167.334302,Mg
+NO,Norway,4,Agriculture,N2O,1997,7167.391187,Mg
+NO,Norway,4,Agriculture,N2O,1998,7168.050698,Mg
+NO,Norway,4,Agriculture,N2O,1999,6981.978857,Mg
+NO,Norway,4,Agriculture,N2O,2000,7035.580656,Mg
+NO,Norway,4,Agriculture,N2O,2001,6796.086104,Mg
+NO,Norway,4,Agriculture,N2O,2002,6724.556917,Mg
+NO,Norway,4,Agriculture,N2O,2003,6782.603368,Mg
+NO,Norway,4,Agriculture,N2O,2004,6791.068645,Mg
+NO,Norway,4,Agriculture,N2O,2005,6814.090654,Mg
+NO,Norway,4,Agriculture,N2O,2006,6642.788829,Mg
+PL,Poland,4,Agriculture,CH4,1990,905165.2838,Mg
+PL,Poland,4,Agriculture,CH4,1991,838312.5329,Mg
+PL,Poland,4,Agriculture,CH4,1992,775471.0293,Mg
+PL,Poland,4,Agriculture,CH4,1993,709300.3835,Mg
+PL,Poland,4,Agriculture,CH4,1994,704685.424,Mg
+PL,Poland,4,Agriculture,CH4,1995,684202.8121,Mg
+PL,Poland,4,Agriculture,CH4,1996,656638.2627,Mg
+PL,Poland,4,Agriculture,CH4,1997,673445.7256,Mg
+PL,Poland,4,Agriculture,CH4,1998,692685.3797,Mg
+PL,Poland,4,Agriculture,CH4,1999,669166.6316,Mg
+PL,Poland,4,Agriculture,CH4,2000,623410.2811,Mg
+PL,Poland,4,Agriculture,CH4,2001,604651.9158,Mg
+PL,Poland,4,Agriculture,CH4,2002,613818.3124,Mg
+PL,Poland,4,Agriculture,CH4,2003,606466.5772,Mg
+PL,Poland,4,Agriculture,CH4,2004,581536.9647,Mg
+PL,Poland,4,Agriculture,CH4,2005,597771.8358,Mg
+PL,Poland,4,Agriculture,CH4,2006,615683.4111,Mg
+PL,Poland,4,Agriculture,CO2,1990,0,Mg
+PL,Poland,4,Agriculture,CO2,1991,0,Mg
+PL,Poland,4,Agriculture,CO2,1992,0,Mg
+PL,Poland,4,Agriculture,CO2,1993,0,Mg
+PL,Poland,4,Agriculture,CO2,1994,0,Mg
+PL,Poland,4,Agriculture,CO2,1995,0,Mg
+PL,Poland,4,Agriculture,CO2,1996,0,Mg
+PL,Poland,4,Agriculture,CO2,1997,0,Mg
+PL,Poland,4,Agriculture,CO2,1998,0,Mg
+PL,Poland,4,Agriculture,CO2,1999,0,Mg
+PL,Poland,4,Agriculture,CO2,2000,0,Mg
+PL,Poland,4,Agriculture,CO2,2001,0,Mg
+PL,Poland,4,Agriculture,CO2,2002,0,Mg
+PL,Poland,4,Agriculture,CO2,2003,0,Mg
+PL,Poland,4,Agriculture,CO2,2004,0,Mg
+PL,Poland,4,Agriculture,CO2,2005,0,Mg
+PL,Poland,4,Agriculture,CO2,2006,0,Mg
+PL,Poland,4,Agriculture,GWP,1990,49358662.45,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,1991,42912489.14,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,1992,39640183.01,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,1993,37264738.23,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,1994,37584796.93,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,1995,37487198.27,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,1996,36234783.22,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,1997,37026245.38,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,1998,37416229.98,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,1999,36099724.37,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,2000,34327690.17,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,2001,33963893.12,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,2002,33562136.86,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,2003,32794257.25,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,2004,32157223.65,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,2005,32743587.4,Mg CO2 Eq
+PL,Poland,4,Agriculture,GWP,2006,34291217.23,Mg CO2 Eq
+PL,Poland,4,Agriculture,N2O,1990,97903.84352,Mg
+PL,Poland,4,Agriculture,N2O,1991,81638.4708,Mg
+PL,Poland,4,Agriculture,N2O,1992,75339.64967,Mg
+PL,Poland,4,Agriculture,N2O,1993,72159.45217,Mg
+PL,Poland,4,Agriculture,N2O,1994,73504.5259,Mg
+PL,Poland,4,Agriculture,N2O,1995,74577.22328,Mg
+PL,Poland,4,Agriculture,N2O,1996,72404.45065,Mg
+PL,Poland,4,Agriculture,N2O,1997,73818.98433,Mg
+PL,Poland,4,Agriculture,N2O,1998,73773.66776,Mg
+PL,Poland,4,Agriculture,N2O,1999,71120.08098,Mg
+PL,Poland,4,Agriculture,N2O,2000,68503.46537,Mg
+PL,Poland,4,Agriculture,N2O,2001,68600.65447,Mg
+PL,Poland,4,Agriculture,N2O,2002,66683.71708,Mg
+PL,Poland,4,Agriculture,N2O,2003,64704.70687,Mg
+PL,Poland,4,Agriculture,N2O,2004,64338.53996,Mg
+PL,Poland,4,Agriculture,N2O,2005,65130.25435,Mg
+PL,Poland,4,Agriculture,N2O,2006,68909.24385,Mg
+PT,Portugal,4,Agriculture,CH4,1990,193083.8202,Mg
+PT,Portugal,4,Agriculture,CH4,1991,197076.2641,Mg
+PT,Portugal,4,Agriculture,CH4,1992,191299.2899,Mg
+PT,Portugal,4,Agriculture,CH4,1993,184537.2778,Mg
+PT,Portugal,4,Agriculture,CH4,1994,194270.9574,Mg
+PT,Portugal,4,Agriculture,CH4,1995,198784.2244,Mg
+PT,Portugal,4,Agriculture,CH4,1996,203784.4572,Mg
+PT,Portugal,4,Agriculture,CH4,1997,200063.1371,Mg
+PT,Portugal,4,Agriculture,CH4,1998,205105.2133,Mg
+PT,Portugal,4,Agriculture,CH4,1999,209886.1435,Mg
+PT,Portugal,4,Agriculture,CH4,2000,212114.7628,Mg
+PT,Portugal,4,Agriculture,CH4,2001,212842.8084,Mg
+PT,Portugal,4,Agriculture,CH4,2002,213534.2188,Mg
+PT,Portugal,4,Agriculture,CH4,2003,210960.1155,Mg
+PT,Portugal,4,Agriculture,CH4,2004,216446.0446,Mg
+PT,Portugal,4,Agriculture,CH4,2005,215611.2507,Mg
+PT,Portugal,4,Agriculture,CH4,2006,218693.8479,Mg
+PT,Portugal,4,Agriculture,CO2,1990,0,Mg
+PT,Portugal,4,Agriculture,CO2,1991,0,Mg
+PT,Portugal,4,Agriculture,CO2,1992,0,Mg
+PT,Portugal,4,Agriculture,CO2,1993,0,Mg
+PT,Portugal,4,Agriculture,CO2,1994,0,Mg
+PT,Portugal,4,Agriculture,CO2,1995,0,Mg
+PT,Portugal,4,Agriculture,CO2,1996,0,Mg
+PT,Portugal,4,Agriculture,CO2,1997,0,Mg
+PT,Portugal,4,Agriculture,CO2,1998,0,Mg
+PT,Portugal,4,Agriculture,CO2,1999,0,Mg
+PT,Portugal,4,Agriculture,CO2,2000,0,Mg
+PT,Portugal,4,Agriculture,CO2,2001,0,Mg
+PT,Portugal,4,Agriculture,CO2,2002,0,Mg
+PT,Portugal,4,Agriculture,CO2,2003,0,Mg
+PT,Portugal,4,Agriculture,CO2,2004,0,Mg
+PT,Portugal,4,Agriculture,CO2,2005,0,Mg
+PT,Portugal,4,Agriculture,CO2,2006,0,Mg
+PT,Portugal,4,Agriculture,GWP,1990,8088342.06,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,1991,8194745.827,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,1992,8051959.891,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,1993,7933249.326,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,1994,8158983.77,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,1995,8173546.904,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,1996,8514130.201,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,1997,8415071.131,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,1998,8413968.319,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,1999,8533774.823,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,2000,8796712.11,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,2001,8653132.63,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,2002,8688935.1,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,2003,8069670.209,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,2004,8340094.272,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,2005,8081163.751,Mg CO2 Eq
+PT,Portugal,4,Agriculture,GWP,2006,8434125.275,Mg CO2 Eq
+PT,Portugal,4,Agriculture,N2O,1990,13011.55431,Mg
+PT,Portugal,4,Agriculture,N2O,1991,13084.33639,Mg
+PT,Portugal,4,Agriculture,N2O,1992,13015.08001,Mg
+PT,Portugal,4,Agriculture,N2O,1993,13090.21449,Mg
+PT,Portugal,4,Agriculture,N2O,1994,13159.01182,Mg
+PT,Portugal,4,Agriculture,N2O,1995,12900.25223,Mg
+PT,Portugal,4,Agriculture,N2O,1996,13660.18258,Mg
+PT,Portugal,4,Agriculture,N2O,1997,13592.72662,Mg
+PT,Portugal,4,Agriculture,N2O,1998,13247.60916,Mg
+PT,Portugal,4,Agriculture,N2O,1999,13310.21229,Mg
+PT,Portugal,4,Agriculture,N2O,2000,14007.4261,Mg
+PT,Portugal,4,Agriculture,N2O,2001,13494.94727,Mg
+PT,Portugal,4,Agriculture,N2O,2002,13563.60163,Mg
+PT,Portugal,4,Agriculture,N2O,2003,11740.34769,Mg
+PT,Portugal,4,Agriculture,N2O,2004,12241.05592,Mg
+PT,Portugal,4,Agriculture,N2O,2005,11462.34673,Mg
+PT,Portugal,4,Agriculture,N2O,2006,12392.11119,Mg
+RO,Romania,4,Agriculture,CH4,1990,700165.596,Mg
+RO,Romania,4,Agriculture,CH4,1991,627697.1018,Mg
+RO,Romania,4,Agriculture,CH4,1992,542549.0248,Mg
+RO,Romania,4,Agriculture,CH4,1993,476437.384,Mg
+RO,Romania,4,Agriculture,CH4,1994,461943.7832,Mg
+RO,Romania,4,Agriculture,CH4,1995,440221.1106,Mg
+RO,Romania,4,Agriculture,CH4,1996,438869.3553,Mg
+RO,Romania,4,Agriculture,CH4,1997,432390.0538,Mg
+RO,Romania,4,Agriculture,CH4,1998,402505.3395,Mg
+RO,Romania,4,Agriculture,CH4,1999,375121.526,Mg
+RO,Romania,4,Agriculture,CH4,2000,352301.9624,Mg
+RO,Romania,4,Agriculture,CH4,2001,344230.1806,Mg
+RO,Romania,4,Agriculture,CH4,2002,354176.9717,Mg
+RO,Romania,4,Agriculture,CH4,2003,357070.4511,Mg
+RO,Romania,4,Agriculture,CH4,2004,359535.1745,Mg
+RO,Romania,4,Agriculture,CH4,2005,366789.9588,Mg
+RO,Romania,4,Agriculture,CH4,2006,373215.198,Mg
+RO,Romania,4,Agriculture,CO2,1990,0,Mg
+RO,Romania,4,Agriculture,CO2,1991,0,Mg
+RO,Romania,4,Agriculture,CO2,1992,0,Mg
+RO,Romania,4,Agriculture,CO2,1993,0,Mg
+RO,Romania,4,Agriculture,CO2,1994,0,Mg
+RO,Romania,4,Agriculture,CO2,1995,0,Mg
+RO,Romania,4,Agriculture,CO2,1996,0,Mg
+RO,Romania,4,Agriculture,CO2,1997,0,Mg
+RO,Romania,4,Agriculture,CO2,1998,0,Mg
+RO,Romania,4,Agriculture,CO2,1999,0,Mg
+RO,Romania,4,Agriculture,CO2,2000,0,Mg
+RO,Romania,4,Agriculture,CO2,2001,0,Mg
+RO,Romania,4,Agriculture,CO2,2002,0,Mg
+RO,Romania,4,Agriculture,CO2,2003,0,Mg
+RO,Romania,4,Agriculture,CO2,2004,0,Mg
+RO,Romania,4,Agriculture,CO2,2005,0,Mg
+RO,Romania,4,Agriculture,CO2,2006,0,Mg
+RO,Romania,4,Agriculture,GWP,1990,37421585.66,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,1991,31413074.34,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,1992,27422748.28,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,1993,25816905.67,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,1994,24888354.69,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,1995,23815988.69,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,1996,23085044.49,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,1997,23162272.46,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,1998,21267221.11,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,1999,19914243.55,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,2000,18167956.16,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,2001,18795751.45,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,2002,18829979.71,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,2003,19125239.84,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,2004,20326344.73,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,2005,20481831.74,Mg CO2 Eq
+RO,Romania,4,Agriculture,GWP,2006,20190604.44,Mg CO2 Eq
+RO,Romania,4,Agriculture,N2O,1990,73284.21981,Mg
+RO,Romania,4,Agriculture,N2O,1991,58811.08131,Mg
+RO,Romania,4,Agriculture,N2O,1992,51707.1573,Mg
+RO,Romania,4,Agriculture,N2O,1993,51005.55035,Mg
+RO,Romania,4,Agriculture,N2O,1994,48992.04917,Mg
+RO,Romania,4,Agriculture,N2O,1995,47004.33991,Mg
+RO,Romania,4,Agriculture,N2O,1996,44738.02591,Mg
+RO,Romania,4,Agriculture,N2O,1997,45426.0688,Mg
+RO,Romania,4,Agriculture,N2O,1998,41337.44832,Mg
+RO,Romania,4,Agriculture,N2O,1999,38828.03711,Mg
+RO,Romania,4,Agriculture,N2O,2000,34740.69339,Mg
+RO,Romania,4,Agriculture,N2O,2001,37312.6376,Mg
+RO,Romania,4,Agriculture,N2O,2002,36749.23645,Mg
+RO,Romania,4,Agriculture,N2O,2003,37505.67861,Mg
+RO,Romania,4,Agriculture,N2O,2004,41213.24538,Mg
+RO,Romania,4,Agriculture,N2O,2005,41223.36323,Mg
+RO,Romania,4,Agriculture,N2O,2006,39848.66219,Mg
+SE,Sweden,4,Agriculture,CH4,1990,162492.9829,Mg
+SE,Sweden,4,Agriculture,CH4,1991,159023.3802,Mg
+SE,Sweden,4,Agriculture,CH4,1992,163026.8649,Mg
+SE,Sweden,4,Agriculture,CH4,1993,169948.4491,Mg
+SE,Sweden,4,Agriculture,CH4,1994,171595.3479,Mg
+SE,Sweden,4,Agriculture,CH4,1995,167474.1111,Mg
+SE,Sweden,4,Agriculture,CH4,1996,166130.5039,Mg
+SE,Sweden,4,Agriculture,CH4,1997,165951.2907,Mg
+SE,Sweden,4,Agriculture,CH4,1998,161440.0166,Mg
+SE,Sweden,4,Agriculture,CH4,1999,160057.6541,Mg
+SE,Sweden,4,Agriculture,CH4,2000,155729.3551,Mg
+SE,Sweden,4,Agriculture,CH4,2001,156593.9942,Mg
+SE,Sweden,4,Agriculture,CH4,2002,155657.7793,Mg
+SE,Sweden,4,Agriculture,CH4,2003,154259.0436,Mg
+SE,Sweden,4,Agriculture,CH4,2004,156251.42,Mg
+SE,Sweden,4,Agriculture,CH4,2005,155851.3766,Mg
+SE,Sweden,4,Agriculture,CH4,2006,155408.7702,Mg
+SE,Sweden,4,Agriculture,CO2,1990,0,Mg
+SE,Sweden,4,Agriculture,CO2,1991,0,Mg
+SE,Sweden,4,Agriculture,CO2,1992,0,Mg
+SE,Sweden,4,Agriculture,CO2,1993,0,Mg
+SE,Sweden,4,Agriculture,CO2,1994,0,Mg
+SE,Sweden,4,Agriculture,CO2,1995,0,Mg
+SE,Sweden,4,Agriculture,CO2,1996,0,Mg
+SE,Sweden,4,Agriculture,CO2,1997,0,Mg
+SE,Sweden,4,Agriculture,CO2,1998,0,Mg
+SE,Sweden,4,Agriculture,CO2,1999,0,Mg
+SE,Sweden,4,Agriculture,CO2,2000,0,Mg
+SE,Sweden,4,Agriculture,CO2,2001,0,Mg
+SE,Sweden,4,Agriculture,CO2,2002,0,Mg
+SE,Sweden,4,Agriculture,CO2,2003,0,Mg
+SE,Sweden,4,Agriculture,CO2,2004,0,Mg
+SE,Sweden,4,Agriculture,CO2,2005,0,Mg
+SE,Sweden,4,Agriculture,CO2,2006,0,Mg
+SE,Sweden,4,Agriculture,GWP,1990,9406539.152,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,1991,9168297.217,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,1992,9172444.401,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,1993,9420356.646,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,1994,9524803.632,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,1995,9321942.73,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,1996,9277990.635,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,1997,9349652.374,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,1998,9181174.309,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,1999,8873639.224,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,2000,8762793.568,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,2001,8785145.016,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,2002,8720630.7,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,2003,8585856.453,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,2004,8636393.377,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,2005,8555452.682,Mg CO2 Eq
+SE,Sweden,4,Agriculture,GWP,2006,8503643.268,Mg CO2 Eq
+SE,Sweden,4,Agriculture,N2O,1990,19336.08552,Mg
+SE,Sweden,4,Agriculture,N2O,1991,18802.60075,Mg
+SE,Sweden,4,Agriculture,N2O,1992,18544.77496,Mg
+SE,Sweden,4,Agriculture,N2O,1993,18875.61037,Mg
+SE,Sweden,4,Agriculture,N2O,1994,19100.97202,Mg
+SE,Sweden,4,Agriculture,N2O,1995,18725.76257,Mg
+SE,Sweden,4,Agriculture,N2O,1996,18675.00017,Mg
+SE,Sweden,4,Agriculture,N2O,1997,18918.30732,Mg
+SE,Sweden,4,Agriculture,N2O,1998,18680.43213,Mg
+SE,Sweden,4,Agriculture,N2O,1999,17782.02738,Mg
+SE,Sweden,4,Agriculture,N2O,2000,17717.6681,Mg
+SE,Sweden,4,Agriculture,N2O,2001,17731.19722,Mg
+SE,Sweden,4,Agriculture,N2O,2002,17586.50753,Mg
+SE,Sweden,4,Agriculture,N2O,2003,17246.50496,Mg
+SE,Sweden,4,Agriculture,N2O,2004,17274.55986,Mg
+SE,Sweden,4,Agriculture,N2O,2005,17040.56056,Mg
+SE,Sweden,4,Agriculture,N2O,2006,16903.41643,Mg
+SI,Slovenia,4,Agriculture,CH4,1990,59257.28467,Mg
+SI,Slovenia,4,Agriculture,CH4,1991,54871.58369,Mg
+SI,Slovenia,4,Agriculture,CH4,1992,58102.80695,Mg
+SI,Slovenia,4,Agriculture,CH4,1993,55980.28418,Mg
+SI,Slovenia,4,Agriculture,CH4,1994,55876.70435,Mg
+SI,Slovenia,4,Agriculture,CH4,1995,55170.22165,Mg
+SI,Slovenia,4,Agriculture,CH4,1996,52828.10413,Mg
+SI,Slovenia,4,Agriculture,CH4,1997,51297.45679,Mg
+SI,Slovenia,4,Agriculture,CH4,1998,52718.37511,Mg
+SI,Slovenia,4,Agriculture,CH4,1999,51841.83392,Mg
+SI,Slovenia,4,Agriculture,CH4,2000,55667.31443,Mg
+SI,Slovenia,4,Agriculture,CH4,2001,54521.33075,Mg
+SI,Slovenia,4,Agriculture,CH4,2002,56327.68718,Mg
+SI,Slovenia,4,Agriculture,CH4,2003,53640.75503,Mg
+SI,Slovenia,4,Agriculture,CH4,2004,51830.92558,Mg
+SI,Slovenia,4,Agriculture,CH4,2005,52186.04082,Mg
+SI,Slovenia,4,Agriculture,CH4,2006,52687.17582,Mg
+SI,Slovenia,4,Agriculture,CO2,1990,0,Mg
+SI,Slovenia,4,Agriculture,CO2,1991,0,Mg
+SI,Slovenia,4,Agriculture,CO2,1992,0,Mg
+SI,Slovenia,4,Agriculture,CO2,1993,0,Mg
+SI,Slovenia,4,Agriculture,CO2,1994,0,Mg
+SI,Slovenia,4,Agriculture,CO2,1995,0,Mg
+SI,Slovenia,4,Agriculture,CO2,1996,0,Mg
+SI,Slovenia,4,Agriculture,CO2,1997,0,Mg
+SI,Slovenia,4,Agriculture,CO2,1998,0,Mg
+SI,Slovenia,4,Agriculture,CO2,1999,0,Mg
+SI,Slovenia,4,Agriculture,CO2,2000,0,Mg
+SI,Slovenia,4,Agriculture,CO2,2001,0,Mg
+SI,Slovenia,4,Agriculture,CO2,2002,0,Mg
+SI,Slovenia,4,Agriculture,CO2,2003,0,Mg
+SI,Slovenia,4,Agriculture,CO2,2004,0,Mg
+SI,Slovenia,4,Agriculture,CO2,2005,0,Mg
+SI,Slovenia,4,Agriculture,CO2,2006,0,Mg
+SI,Slovenia,4,Agriculture,GWP,1990,2242725.972,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,1991,2084767.9,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,1992,2274142.62,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,1993,2128493.178,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,1994,2133239.902,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,1995,2117363.551,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,1996,2049211.552,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,1997,2041972.251,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,1998,2086643.43,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,1999,2065922.504,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,2000,2162344.404,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,2001,2127392.173,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,2002,2188170.397,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,2003,2092458.363,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,2004,1998536.027,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,2005,2005802.293,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,GWP,2006,2029208.232,Mg CO2 Eq
+SI,Slovenia,4,Agriculture,N2O,1990,3220.396756,Mg
+SI,Slovenia,4,Agriculture,N2O,1991,3007.950459,Mg
+SI,Slovenia,4,Agriculture,N2O,1992,3399.947337,Mg
+SI,Slovenia,4,Agriculture,N2O,1993,3073.894226,Mg
+SI,Slovenia,4,Agriculture,N2O,1994,3096.222936,Mg
+SI,Slovenia,4,Agriculture,N2O,1995,3092.867407,Mg
+SI,Slovenia,4,Agriculture,N2O,1996,3031.681822,Mg
+SI,Slovenia,4,Agriculture,N2O,1997,3112.018253,Mg
+SI,Slovenia,4,Agriculture,N2O,1998,3159.863072,Mg
+SI,Slovenia,4,Agriculture,N2O,1999,3152.399974,Mg
+SI,Slovenia,4,Agriculture,N2O,2000,3204.292905,Mg
+SI,Slovenia,4,Agriculture,N2O,2001,3169.174928,Mg
+SI,Slovenia,4,Agriculture,N2O,2002,3242.867632,Mg
+SI,Slovenia,4,Agriculture,N2O,2003,3116.137121,Mg
+SI,Slovenia,4,Agriculture,N2O,2004,2935.763192,Mg
+SI,Slovenia,4,Agriculture,N2O,2005,2935.146568,Mg
+SI,Slovenia,4,Agriculture,N2O,2006,2976.701741,Mg
+SK,Slovakia,4,Agriculture,CH4,1990,112324.684,Mg
+SK,Slovakia,4,Agriculture,CH4,1991,103215.938,Mg
+SK,Slovakia,4,Agriculture,CH4,1992,91231.206,Mg
+SK,Slovakia,4,Agriculture,CH4,1993,79711.242,Mg
+SK,Slovakia,4,Agriculture,CH4,1994,75297.418,Mg
+SK,Slovakia,4,Agriculture,CH4,1995,80154.78346,Mg
+SK,Slovakia,4,Agriculture,CH4,1996,75271.65898,Mg
+SK,Slovakia,4,Agriculture,CH4,1997,67655.56099,Mg
+SK,Slovakia,4,Agriculture,CH4,1998,63124.15171,Mg
+SK,Slovakia,4,Agriculture,CH4,1999,60648.56924,Mg
+SK,Slovakia,4,Agriculture,CH4,2000,59444.86915,Mg
+SK,Slovakia,4,Agriculture,CH4,2001,61076.98302,Mg
+SK,Slovakia,4,Agriculture,CH4,2002,59524.65402,Mg
+SK,Slovakia,4,Agriculture,CH4,2003,56907.60339,Mg
+SK,Slovakia,4,Agriculture,CH4,2004,52062.85841,Mg
+SK,Slovakia,4,Agriculture,CH4,2005,52567.14525,Mg
+SK,Slovakia,4,Agriculture,CH4,2006,51695.81588,Mg
+SK,Slovakia,4,Agriculture,CO2,1990,0,Mg
+SK,Slovakia,4,Agriculture,CO2,1991,0,Mg
+SK,Slovakia,4,Agriculture,CO2,1992,0,Mg
+SK,Slovakia,4,Agriculture,CO2,1993,0,Mg
+SK,Slovakia,4,Agriculture,CO2,1994,0,Mg
+SK,Slovakia,4,Agriculture,CO2,1995,0,Mg
+SK,Slovakia,4,Agriculture,CO2,1996,0,Mg
+SK,Slovakia,4,Agriculture,CO2,1997,0,Mg
+SK,Slovakia,4,Agriculture,CO2,1998,0,Mg
+SK,Slovakia,4,Agriculture,CO2,1999,0,Mg
+SK,Slovakia,4,Agriculture,CO2,2000,0,Mg
+SK,Slovakia,4,Agriculture,CO2,2001,0,Mg
+SK,Slovakia,4,Agriculture,CO2,2002,0,Mg
+SK,Slovakia,4,Agriculture,CO2,2003,0,Mg
+SK,Slovakia,4,Agriculture,CO2,2004,0,Mg
+SK,Slovakia,4,Agriculture,CO2,2005,0,Mg
+SK,Slovakia,4,Agriculture,CO2,2006,0,Mg
+SK,Slovakia,4,Agriculture,GWP,1990,7035527.146,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,1991,6037250.085,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,1992,5091207.178,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,1993,4390242.168,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,1994,4217006.866,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,1995,4388573.594,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,1996,4217165.335,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,1997,4024369.398,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,1998,3707411.109,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,1999,3468107.961,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,2000,3482133.037,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,2001,3530178.607,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,2002,3547307.456,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,2003,3411517.551,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,2004,3226778.306,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,2005,3219460.346,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,GWP,2006,3162321.688,Mg CO2 Eq
+SK,Slovakia,4,Agriculture,N2O,1990,15086.15736,Mg
+SK,Slovakia,4,Agriculture,N2O,1991,12482.95286,Mg
+SK,Slovakia,4,Agriculture,N2O,1992,10243.07049,Mg
+SK,Slovakia,4,Agriculture,N2O,1993,8762.277698,Mg
+SK,Slovakia,4,Agriculture,N2O,1994,8502.455124,Mg
+SK,Slovakia,4,Agriculture,N2O,1995,8726.848843,Mg
+SK,Slovakia,4,Agriculture,N2O,1996,8504.711278,Mg
+SK,Slovakia,4,Agriculture,N2O,1997,8398.718121,Mg
+SK,Slovakia,4,Agriculture,N2O,1998,7683.238461,Mg
+SK,Slovakia,4,Agriculture,N2O,1999,7078.993571,Mg
+SK,Slovakia,4,Agriculture,N2O,2000,7205.776726,Mg
+SK,Slovakia,4,Agriculture,N2O,2001,7250.199883,Mg
+SK,Slovakia,4,Agriculture,N2O,2002,7410.612004,Mg
+SK,Slovakia,4,Agriculture,N2O,2003,7149.864127,Mg
+SK,Slovakia,4,Agriculture,N2O,2004,6882.123483,Mg
+SK,Slovakia,4,Agriculture,N2O,2005,6824.355792,Mg
+SK,Slovakia,4,Agriculture,N2O,2006,6699.06308,Mg
+TR,Turkey,4,Agriculture,CH4,1990,873217.9118,Mg
+TR,Turkey,4,Agriculture,CH4,1991,900152.582,Mg
+TR,Turkey,4,Agriculture,CH4,1992,891070.6826,Mg
+TR,Turkey,4,Agriculture,CH4,1993,879805.6763,Mg
+TR,Turkey,4,Agriculture,CH4,1994,866392.6638,Mg
+TR,Turkey,4,Agriculture,CH4,1995,849888.6285,Mg
+TR,Turkey,4,Agriculture,CH4,1996,850130.9633,Mg
+TR,Turkey,4,Agriculture,CH4,1997,795473.981,Mg
+TR,Turkey,4,Agriculture,CH4,1998,788283.3943,Mg
+TR,Turkey,4,Agriculture,CH4,1999,791212.2819,Mg
+TR,Turkey,4,Agriculture,CH4,2000,761452.6784,Mg
+TR,Turkey,4,Agriculture,CH4,2001,744616.1262,Mg
+TR,Turkey,4,Agriculture,CH4,2002,696848.6705,Mg
+TR,Turkey,4,Agriculture,CH4,2003,698089.213,Mg
+TR,Turkey,4,Agriculture,CH4,2004,715608.7395,Mg
+TR,Turkey,4,Agriculture,CH4,2005,745965.076,Mg
+TR,Turkey,4,Agriculture,CH4,2006,745965.076,Mg
+TR,Turkey,4,Agriculture,CO2,1990,0,Mg
+TR,Turkey,4,Agriculture,CO2,1991,0,Mg
+TR,Turkey,4,Agriculture,CO2,1992,0,Mg
+TR,Turkey,4,Agriculture,CO2,1993,0,Mg
+TR,Turkey,4,Agriculture,CO2,1994,0,Mg
+TR,Turkey,4,Agriculture,CO2,1995,0,Mg
+TR,Turkey,4,Agriculture,CO2,1996,0,Mg
+TR,Turkey,4,Agriculture,CO2,1997,0,Mg
+TR,Turkey,4,Agriculture,CO2,1998,0,Mg
+TR,Turkey,4,Agriculture,CO2,1999,0,Mg
+TR,Turkey,4,Agriculture,CO2,2000,0,Mg
+TR,Turkey,4,Agriculture,CO2,2001,0,Mg
+TR,Turkey,4,Agriculture,CO2,2002,0,Mg
+TR,Turkey,4,Agriculture,CO2,2003,0,Mg
+TR,Turkey,4,Agriculture,CO2,2004,0,Mg
+TR,Turkey,4,Agriculture,CO2,2005,0,Mg
+TR,Turkey,4,Agriculture,CO2,2006,0,Mg
+TR,Turkey,4,Agriculture,GWP,1990,18473356.15,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,1991,19043014.22,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,1992,18843304.33,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,1993,18617899.2,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,1994,18315145.94,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,1995,17973831.2,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,1996,17983570.23,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,1997,16837633.6,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,1998,16703991.28,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,1999,16743487.92,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,2000,16134656.25,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,2001,15768378.65,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,2002,14771462.08,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,2003,14795653.47,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,2004,15177823.53,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,2005,15823435.68,Mg CO2 Eq
+TR,Turkey,4,Agriculture,GWP,2006,15823435.68,Mg CO2 Eq
+TR,Turkey,4,Agriculture,N2O,1990,438,Mg
+TR,Turkey,4,Agriculture,N2O,1991,451,Mg
+TR,Turkey,4,Agriculture,N2O,1992,422,Mg
+TR,Turkey,4,Agriculture,N2O,1993,458,Mg
+TR,Turkey,4,Agriculture,N2O,1994,390,Mg
+TR,Turkey,4,Agriculture,N2O,1995,407,Mg
+TR,Turkey,4,Agriculture,N2O,1996,422,Mg
+TR,Turkey,4,Agriculture,N2O,1997,428,Mg
+TR,Turkey,4,Agriculture,N2O,1998,484,Mg
+TR,Turkey,4,Agriculture,N2O,1999,413,Mg
+TR,Turkey,4,Agriculture,N2O,2000,465,Mg
+TR,Turkey,4,Agriculture,N2O,2001,424,Mg
+TR,Turkey,4,Agriculture,N2O,2002,444,Mg
+TR,Turkey,4,Agriculture,N2O,2003,438,Mg
+TR,Turkey,4,Agriculture,N2O,2004,484,Mg
+TR,Turkey,4,Agriculture,N2O,2005,510.222845,Mg
+TR,Turkey,4,Agriculture,N2O,2006,510.222845,Mg

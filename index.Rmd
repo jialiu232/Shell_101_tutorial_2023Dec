@@ -1,0 +1,75 @@
+---
+title: "Shell 101 Workshop on Iowa State University Nova clusters"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+---- 
+
+### Welcome everyone!
+
+Today we will go through some basic Shell programming on the Nova High Performance Computing (HPC) clusters of Iowa State University (ISU).
+
+----
+
+## What is Shell?
+
+<br>
+
+![](images/shell_pic.jpeg){width=60%}
+<br>
+
+Shell is the command line interpreter that provides an interface for users to communicate with the computer through command lines. In other words, Shell is a type of software that processes and executes the commands from users, so that the operating system can perform the corresponding actions.
+
+Many tasks can be performed by Shell scripting. The ones that are mostly relevant to biological researchers may be those related to manipulate and run programs on large number of files or files with large size, create command pipelines or tools, and so on. High Performance Computing provides clusters of powerful processors to process the massive datasets and perform intensive computational tasks. [Nova](https://www.hpc.iastate.edu/guides/nova) is the HPC cluster our lab is using at ISU.
+
+<br>
+
+## Access and Login to Nova cluster
+
+
+<br>
+
+### First time Login
+
+Detailed instruction to login to Nova cluster can be found [here](https://www.hpc.iastate.edu/guides/nova/access-and-login).
+
+
+1. On your **phone**: Download the **Google Authenticator** app 
+
+*"Accounts on Nova Cluster require the use of Google Authenticator. The Google Authenticator provides a six digit one-time password users must provide in addition to their username and password to log into Nova Cluster."*
+
+2. On your **terminal (for Mac) or Power Shell (for Windows)**: type `ssh <ISU NetID>@nova.its.iastate.edu`
+
+Replace `<ISU NetID>` to your ISU net ID.
+
+*"The first time you ssh to nova, it will respond with "host key not found, generate hostkey?(yes/no)". Answer yes."*
+
+*"At the first attempt to login a GA account will be created for them, and the email with the instructions will be sent to <ISU NetID>@iastate.edu."*
+
+3. You should receive an email with a link to a **QR code** at your ISU email `<ISU NetID>@iastate.edu`
+
+
+4. On your **Google Authenticator app**: Add an account by scan the QR code received in the email 
+
+This step will create an account for you on the Google Authenticator app to login to the Nova cluster in the future. For later logins to Nova cluster, you will need to use the six digit one-time code provided by Google Authenticator in addition to your username and password.
+
+
+After the above steps are done, continue with the following steps.
+
+<br>
+
+### Regular Login to Nova cluster
+
+1. On your terminal (for Mac) or Power Shell (for Windows): type `ssh <ISU NetID>@nova.its.iastate.edu`, then hit `Enter`
+
+2. Type the six digit one-time verification code as required, then hit `Enter`
+
+3. Type in your ISU account password as requested, then hit `Enter`
+
+
+----
+
+Great, now you are on Nova cluster!
